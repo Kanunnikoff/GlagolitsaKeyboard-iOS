@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  GlagolitsaKeyboard
+
+  Created by Дмитрiй Канунниковъ on 02.12.2022.
+  
+*/
+
+// Sidebar
+
+"Main" = "Головна";
+
+"Settings" = "Налаштування";
+
+"About" = "Про програму";
+
+"Menu" = "Меню";
+
+
+// MainView
+
+"To enable the keyboard, follow the ​following​​ steps:\n• in Device Settings go to General -> Keyboard -> Keyboards -> ​New​ keyboards\n• enable the keyboard named 'Glagolitic'" = "Щоб увімкнути клавіатуру, виконайте такі дії:\n• у Налаштуваннях пристрою зайдіть у розділ Основні -> Клавіатура -> Клавіатури -> Нові клавіатури\n• увімкніть клавіатуру під назвою 'Glagolitic'";
+
+"The keyboard contains ​all letters of the Glagolitic alphabet." = "Клавіатура містить усі букви глаголичного алфавіту.";
+
+"Some letters are available by long holding corresponding letters with similar pronunciations." = "Деякі літери доступні для тривалого утримання відповідних літер зі схожою вимовою.";
+
+"Check Input" = "Перевірте введення";
+
+"Glagolitic" = "Глаголиця";
+
+
+// SettingsView
+
+"System font and size" = "Системний шрифт та розмір";
+
+"Key sound" =  "Звуковий сигнал клавіш";
+
+"Keyboard" = "Клавіатура";
+
+"Ability to enable system font and sound when pressing keys." = "Можливість увімкнення системного шрифту та звуку при натисканні клавіш.";
+
+
+// AboutView
+
+"Version %@, build %@" = "Версія %@, складання %@";
+
+"© 2022 Dmitry Kanunnikoff" = "© 2022 Дмитрiй Канунниковъ";
+
+"Rate" = "Оцінити";
+
+"Share" = "Поділитися";
+
+"Other apps" = "Інші програми";
+
+"Glagolitic: Translator" = "Глаголиця: перекладач";
+
+"Your opinion is very important to me. Please feel free to rate and write a review." = "Ваша думка дуже важлива для мене. Будь ласка, не полінуйтеся поставити оцінку та написати відгук.";
+
+"Write a letter" = "Написати лист";
+
+"My YouTube channel" = "Мій YouTube-канал";
+
+"I'm on Twitter" = "Я у Twitter";
+
+"I'm on Instagram" = "Я у Instagram";
+
+"Feedback" = "Зворотній зв'язок";
+
+"In case of questions or suggestions, I am at your service. Let's be in touch!" = "У разі запитань чи пропозицій я до Ваших послуг. Будемо на зв'язку!";
+
+"Read" = "Читати";
+
+"Privacy Policy" = "Політика конфіденційності";
+
+"Detailed information about how the application uses your data." = "Детальна інформація про те, як програма використовує Ваші дані.";
+
+"Support" = "Підтримка";
+
+"If you like the result of my work, then you can, if you wish, support me in one of the above ways." = "Якщо Вам подобається результат моєї праці, то Ви можете, за бажання, підтримати мене одним із перерахованих вище способів.";

@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  GlagolitsaKeyboard
+
+  Created by Дмитрiй Канунниковъ on 02.12.2022.
+  
+*/
+
+// Sidebar
+
+"Main" = "Main";
+
+"Settings" = "Settings";
+
+"About" = "About";
+
+"Menu" = "Menu";
+
+
+// MainView
+
+"To enable the keyboard, follow the ​following​​ steps:\n• in Device Settings go to General -> Keyboard -> Keyboards -> ​New​ keyboards\n• enable the keyboard named 'Glagolitic'" = "To enable the keyboard, follow the ​following​​ steps:\n• in Device Settings go to General -> Keyboard -> Keyboards -> ​New​ keyboards\n• enable the keyboard named 'Glagolitic'";
+
+"The keyboard contains ​all letters of the Glagolitic alphabet." = "The keyboard contains ​all letters of the Glagolitic alphabet.";
+
+"Some letters are available by long holding corresponding letters with similar pronunciations." = "Some letters are available by long holding corresponding letters with similar pronunciations.";
+
+"Check Input" = "Check Input";
+
+"Glagolitic" = "Glagolitic";
+
+
+// SettingsView
+
+"System font and size" = "System font and size";
+
+"Key sound" =  "Key sound";
+
+"Keyboard" = "Keyboard";
+
+"Ability to enable system font and sound when pressing keys." = "Ability to enable system font and sound when pressing keys.";
+
+
+// AboutView
+
+"Version %@, build %@" = "Version %@, build %@";
+
+"© 2022 Dmitry Kanunnikoff" = "© 2022 Dmitry Kanunnikoff";
+
+"Rate" = "Rate";
+
+"Share" = "Share";
+
+"Other apps" = "Other apps";
+
+"Glagolitic: Translator" = "Glagolitic: Translator";
+
+"Your opinion is very important to me. Please feel free to rate and write a review." = "Your opinion is very important to me. Please feel free to rate and write a review.";
+
+"Write a letter" = "Write a letter";
+
+"My YouTube channel" = "My YouTube channel";
+
+"I'm on Twitter" = "I'm on Twitter";
+
+"I'm on Instagram" = "I'm on Instagram";
+
+"Feedback" = "Feedback";
+
+"In case of questions or suggestions, I am at your service. Let's be in touch!" = "In case of questions or suggestions, I am at your service. Let's be in touch!";
+
+"Read" = "Read";
+
+"Privacy Policy" = "Privacy Policy";
+
+"Detailed information about how the application uses your data." = "Detailed information about how the application uses your data.";
+
+"Support" = "Support";
+
+"If you like the result of my work, then you can, if you wish, support me in one of the above ways." = "If you like the result of my work, then you can, if you wish, support me in one of the above ways.";
