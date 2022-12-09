@@ -91,6 +91,7 @@
 		0AC1F040293A83C000969E35 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		0AC1F044293A872300969E35 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		0AC1F045293A873700969E35 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
+		2CCB093029428ED9007768D2 /* hr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hr; path = hr.lproj/Localizable.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -331,6 +332,7 @@
 				Base,
 				ru,
 				uk,
+				hr,
 			);
 			mainGroup = 0A1241C328796A3A00D71CE3;
 			packageReferences = (
@@ -419,6 +421,7 @@
 				0AC1F040293A83C000969E35 /* en */,
 				0AC1F044293A872300969E35 /* ru */,
 				0AC1F045293A873700969E35 /* uk */,
+				2CCB093029428ED9007768D2 /* hr */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

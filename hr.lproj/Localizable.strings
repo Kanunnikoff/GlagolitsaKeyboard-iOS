@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  GlagolitsaKeyboard
+
+  Created by Дмитрiй Канунниковъ on 02.12.2022.
+  
+*/
+
+// Sidebar
+
+"Main" = "Početna";
+
+"Settings" = "Postavke";
+
+"About" = "O aplikaciji";
+
+"Menu" = "Izbornik";
+
+
+// MainView
+
+"To enable the keyboard, follow the ​following​​ steps:\n• in Device Settings go to General -> Keyboard -> Keyboards -> ​New​ keyboards\n• enable the keyboard named 'Glagolitic'" = "Da se pojavi tipkovnica, poduzmite slijedeće korake:\n• u Postavkama uređaja odaberite Općenito -> Tipkovnica -> Tipkovnice -> ​Dodaj novu tipkovnicu\n• uključite tipkovnicu zvanu 'Glagolitic'";
+
+"The keyboard contains ​all letters of the Glagolitic alphabet." = "Tipkovnica sadrži sva slova Glagoljske abecede.";
+
+"Some letters are available by long holding corresponding letters with similar pronunciations." = "Neka slova su dostupna dugim pritiskom određenih slova sa sličnim izgovorom.";
+
+"Check Input" = "Provjerite unos";
+
+"Glagolitic" = "Glagolitic";
+
+
+// SettingsView
+
+"System font and size" = "Font i veličina sustava";
+
+"Key sound" =  "Zvuk tipke";
+
+"Keyboard" = "Tipkovnica";
+
+"Ability to enable system font and sound when pressing keys." = "Mogućnost odabira fonta i uključenja zvuka pri tipkanju.";
+
+
+// AboutView
+
+"Version %@, build %@" = "Verzija %@, build %@";
+
+"© 2022 Dmitry Kanunnikoff" = "© 2022 Dmitry Kanunnikoff";
+
+"Rate" = "Ocijeni";
+
+"Share" = "Dijeli";
+
+"Other apps" = "Ostale aplikacije";
+
+"Glagolitic: Translator" = "Glagolitic: Translator";
+
+"Your opinion is very important to me. Please feel free to rate and write a review." = "Vaše mišljenje mi je vrlo važno. Slobodno dajte ocjenu i napišite osvrt.";
+
+"Write a letter" = "Napišite e-poruku";
+
+"My YouTube channel" = "Moj kanal na YouTube-u";
+
+"I'm on Twitter" = "Koristim Twitter";
+
+"I'm on Instagram" = "Koristim Instagram";
+
+"Feedback" = "Povratna informacija";
+
+"In case of questions or suggestions, I am at your service. Let's be in touch!" = "U slučaju pitanja ili prijedloga, na usluzi sam Vam. Budimo u kontaktu!";
+
+"Read" = "Pročitaj";
+
+"Privacy Policy" = "Politika Privatnosti";
+
+"Detailed information about how the application uses your data." = "Detaljne informacije o načinu kako aplikacija koristi Vaše podatke.";
+
+"Support" = "Podrška";
+
+"If you like the result of my work, then you can, if you wish, support me in one of the above ways." = "Ako cijenite moj rad, možete ako to želite mi dati podršku na jedan od navedenih načina.";
