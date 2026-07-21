@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03B35012300F5675000249DB /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 03B35011300F5675000249DB /* Localizable.xcstrings */; };
+		03B35013300F5675000249DB /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 03B35011300F5675000249DB /* Localizable.xcstrings */; };
+		03B35015300F5675000249DB /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 03B35014300F5675000249DB /* InfoPlist.xcstrings */; };
 		0A1241D028796A3A00D71CE3 /* GlagolitsaKeyboardApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1241CF28796A3A00D71CE3 /* GlagolitsaKeyboardApp.swift */; };
 		0A1241D228796A3A00D71CE3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A1241D128796A3A00D71CE3 /* ContentView.swift */; };
 		0A1241D428796A3C00D71CE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0A1241D328796A3C00D71CE3 /* Assets.xcassets */; };
@@ -32,7 +35,6 @@
 		0A7A0E302879C4160032472B /* MyKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7A0E2F2879C4160032472B /* MyKeyboard.swift */; };
 		0A7A0E34287A11150032472B /* GlagoliticInputSetProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7A0E33287A11150032472B /* GlagoliticInputSetProvider.swift */; };
 		0A7A0E36287A20100032472B /* GlagoliticCalloutActionProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7A0E35287A20100032472B /* GlagoliticCalloutActionProvider.swift */; };
-		0AC1F03F293A83C000969E35 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0AC1F041293A83C000969E35 /* Localizable.strings */; };
 		0B1000012E25700100C0D3E1 /* TabNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2000012E25700100C0D3E1 /* TabNavigationView.swift */; };
 		0B1000022E25700100C0D3E1 /* StoreProductIdentifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2000022E25700100C0D3E1 /* StoreProductIdentifiers.swift */; };
 		0B1000032E25700100C0D3E1 /* PurchaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2000032E25700100C0D3E1 /* PurchaseManager.swift */; };
@@ -50,8 +52,6 @@
 		0B40000A300E800000C0D3E1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0B400009300E800000C0D3E1 /* GoogleService-Info.plist */; };
 		0B410001300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 0B410003300F000000C0D3E1 /* PrivacyInfo.xcprivacy */; };
 		0B410002300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 0B410004300F000000C0D3E1 /* PrivacyInfo.xcprivacy */; };
-		0B500001300F100000C0D3E1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0B500007300F100000C0D3E1 /* InfoPlist.strings */; };
-		0B500002300F100000C0D3E1 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0AC1F041293A83C000969E35 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -79,6 +79,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		03B35011300F5675000249DB /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		03B35014300F5675000249DB /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
 		0A1241CC28796A3A00D71CE3 /* GlagolitsaKeyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GlagolitsaKeyboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A1241CF28796A3A00D71CE3 /* GlagolitsaKeyboardApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlagolitsaKeyboardApp.swift; sourceTree = "<group>"; };
 		0A1241D128796A3A00D71CE3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -105,10 +107,6 @@
 		0A7A0E2F2879C4160032472B /* MyKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyKeyboard.swift; sourceTree = "<group>"; };
 		0A7A0E33287A11150032472B /* GlagoliticInputSetProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlagoliticInputSetProvider.swift; sourceTree = "<group>"; };
 		0A7A0E35287A20100032472B /* GlagoliticCalloutActionProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlagoliticCalloutActionProvider.swift; sourceTree = "<group>"; };
-		0AC1F040293A83C000969E35 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
-		0AC1F044293A872300969E35 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
-		0AC1F045293A873700969E35 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
-		2CCB093029428ED9007768D2 /* hr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hr; path = hr.lproj/Localizable.strings; sourceTree = "<group>"; };
 		0B2000012E25700100C0D3E1 /* TabNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabNavigationView.swift; sourceTree = "<group>"; };
 		0B2000022E25700100C0D3E1 /* StoreProductIdentifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreProductIdentifiers.swift; sourceTree = "<group>"; };
 		0B2000032E25700100C0D3E1 /* PurchaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurchaseManager.swift; sourceTree = "<group>"; };
@@ -124,10 +122,6 @@
 		0B400009300E800000C0D3E1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		0B410003300F000000C0D3E1 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		0B410004300F000000C0D3E1 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
-		0B500003300F100000C0D3E1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		0B500004300F100000C0D3E1 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		0B500005300F100000C0D3E1 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		0B500006300F100000C0D3E1 /* hr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hr; path = hr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -157,8 +151,8 @@
 			isa = PBXGroup;
 			children = (
 				0B2000082E25700100C0D3E1 /* Store.storekit */,
-				0AC1F041293A83C000969E35 /* Localizable.strings */,
-				0B500007300F100000C0D3E1 /* InfoPlist.strings */,
+				03B35011300F5675000249DB /* Localizable.xcstrings */,
+				03B35014300F5675000249DB /* InfoPlist.xcstrings */,
 				0A1241CE28796A3A00D71CE3 /* GlagolitsaKeyboard */,
 				0A1241E228796B5F00D71CE3 /* Keyboard */,
 				0A1241CD28796A3A00D71CE3 /* Products */,
@@ -453,10 +447,10 @@
 			files = (
 				0B1000082E25700100C0D3E1 /* Store.storekit in Resources */,
 				0B410001300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */,
+				03B35012300F5675000249DB /* Localizable.xcstrings in Resources */,
+				03B35015300F5675000249DB /* InfoPlist.xcstrings in Resources */,
 				0B40000A300E800000C0D3E1 /* GoogleService-Info.plist in Resources */,
-				0B500001300F100000C0D3E1 /* InfoPlist.strings in Resources */,
 				0A1241D728796A3C00D71CE3 /* Preview Assets.xcassets in Resources */,
-				0AC1F03F293A83C000969E35 /* Localizable.strings in Resources */,
 				0A1241D428796A3C00D71CE3 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -466,7 +460,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0B410002300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */,
-				0B500002300F100000C0D3E1 /* Localizable.strings in Resources */,
+				03B35013300F5675000249DB /* Localizable.xcstrings in Resources */,
 				0A241CE3293940BA0021D42B /* Shafarik-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -554,31 +548,6 @@
 		};
 /* End PBXTargetDependency section */
 
-/* Begin PBXVariantGroup section */
-		0AC1F041293A83C000969E35 /* Localizable.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				0AC1F040293A83C000969E35 /* en */,
-				0AC1F044293A872300969E35 /* ru */,
-				0AC1F045293A873700969E35 /* uk */,
-				2CCB093029428ED9007768D2 /* hr */,
-			);
-			name = Localizable.strings;
-			sourceTree = "<group>";
-		};
-		0B500007300F100000C0D3E1 /* InfoPlist.strings */ = {
-			isa = PBXVariantGroup;
-			children = (
-				0B500003300F100000C0D3E1 /* en */,
-				0B500004300F100000C0D3E1 /* ru */,
-				0B500005300F100000C0D3E1 /* uk */,
-				0B500006300F100000C0D3E1 /* hr */,
-			);
-			name = InfoPlist.strings;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
-
 /* Begin XCBuildConfiguration section */
 		0A1241D828796A3C00D71CE3 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -631,11 +600,13 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -685,10 +656,12 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
 				VALIDATE_PRODUCT = YES;
 			};
