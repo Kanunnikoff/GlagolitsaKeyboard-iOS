@@ -10,6 +10,42 @@
             "state" : "new",
             "value" : "Glagolitic"
           }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlaholice"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlaholika"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Глаголица"
+          }
+        },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Глаголица"
+          }
+        },
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Глаголіца"
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glagolica"
+          }
         }
       }
     },
@@ -20,6 +56,42 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "GlagolitsaKeyboard"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GlagolitsaKeyboard"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GlagolitsaKeyboard"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GlagolitsaKeyboard"
+          }
+        },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GlagolitsaKeyboard"
+          }
+        },
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GlagolitsaKeyboard"
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "GlagolitsaKeyboard"
           }
         }
@@ -51,6 +123,42 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мікрофон може використовуватися для голосового введення тексту."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mikrofon může být použit pro hlasové zadávání textu."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mikrofón sa môže používať na hlasové zadávanie textu."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Микрофонът може да се използва за гласово въвеждане на текст."
+          }
+        },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Микрофонот може да се користи за гласовно внесување текст."
+          }
+        },
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мікрафон можа выкарыстоўвацца для галасавога ўводу тэксту."
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mikrofon se lahko uporablja za glasovni vnos besedila."
           }
         }
       }

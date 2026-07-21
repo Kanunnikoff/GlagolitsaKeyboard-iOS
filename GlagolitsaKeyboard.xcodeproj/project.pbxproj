@@ -425,6 +425,12 @@
 				ru,
 				uk,
 				hr,
+				cs,
+				sk,
+				bg,
+				mk,
+				be,
+				sl,
 			);
 			mainGroup = 0A1241C328796A3A00D71CE3;
 			packageReferences = (
