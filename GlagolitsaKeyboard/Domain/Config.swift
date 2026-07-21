@@ -34,6 +34,12 @@ struct Config {
 enum KeyboardSettingsKey {
 
     static let hasBeenUsed = "Keyboard.hasBeenUsed"
+    static let isAutocapitalizationEnabled = "SettingsView.Keyboard.isAutocapitalizationEnabled"
     static let isAudioFeedback = "SettingsView.Keyboard.isAudioFeedback"
     static let isSystemFontAndSize = "SettingsView.Keyboard.isSystemFontAndSize"
+}
+
+enum GlagoliticFont {
+
+    static let roundedPostScriptName = "Shafarik-Regular"
 }

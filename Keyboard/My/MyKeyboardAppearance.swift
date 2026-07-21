@@ -10,8 +10,6 @@ import SwiftUI
 
 enum MyKeyboardAppearance {
 
-    private static let customFontPostScriptName = "Shafarik-Regular"
-
     static func buttonTitle(for action: KeyboardAction) -> String? {
         switch action {
             case .space:
@@ -43,7 +41,7 @@ enum MyKeyboardAppearance {
         // Стандартный стиль уже содержит системный шрифт, который библиотека
         // использует в первую очередь. Заменяем его непосредственно, иначе
         // пользовательский шрифт остаётся неиспользуемым запасным значением.
-        let customFont = Font.custom(customFontPostScriptName, size: size)
+        let customFont = Font.custom(GlagoliticFont.roundedPostScriptName, size: size)
         if let weight {
             style.nativeFont = customFont.weight(weight.fontWeight)
         } else {

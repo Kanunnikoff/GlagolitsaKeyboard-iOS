@@ -52,6 +52,7 @@
 		0B40000A300E800000C0D3E1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0B400009300E800000C0D3E1 /* GoogleService-Info.plist */; };
 		0B410001300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 0B410003300F000000C0D3E1 /* PrivacyInfo.xcprivacy */; };
 		0B410002300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 0B410004300F000000C0D3E1 /* PrivacyInfo.xcprivacy */; };
+		0B420001300F100000C0D3E1 /* Shafarik-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0A241CE1293940510021D42B /* Shafarik-Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -447,6 +448,7 @@
 			files = (
 				0B1000082E25700100C0D3E1 /* Store.storekit in Resources */,
 				0B410001300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */,
+				0B420001300F100000C0D3E1 /* Shafarik-Regular.otf in Resources */,
 				03B35012300F5675000249DB /* Localizable.xcstrings in Resources */,
 				03B35015300F5675000249DB /* InfoPlist.xcstrings in Resources */,
 				0B40000A300E800000C0D3E1 /* GoogleService-Info.plist in Resources */,

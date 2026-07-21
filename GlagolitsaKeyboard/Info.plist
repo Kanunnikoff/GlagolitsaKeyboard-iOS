@@ -6,5 +6,9 @@
 	<false/>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>The microphone may be used for voice text input.</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Shafarik-Regular.otf</string>
+	</array>
 </dict>
 </plist>
