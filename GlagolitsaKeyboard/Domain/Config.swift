@@ -37,6 +37,52 @@ enum KeyboardSettingsKey {
     static let isAutocapitalizationEnabled = "SettingsView.Keyboard.isAutocapitalizationEnabled"
     static let isAudioFeedback = "SettingsView.Keyboard.isAudioFeedback"
     static let isSystemFontAndSize = "SettingsView.Keyboard.isSystemFontAndSize"
+    static let language = "SettingsView.Keyboard.language"
+}
+
+enum KeyboardLanguage: String, CaseIterable, Identifiable {
+
+    case belarusian = "be"
+    case bulgarian = "bg"
+    case croatian = "hr"
+    case czech = "cs"
+    case english = "en"
+    case macedonian = "mk"
+    case russian = "ru"
+    case slovak = "sk"
+    case slovenian = "sl"
+    case ukrainian = "uk"
+
+    var id: String {
+        rawValue
+    }
+
+    var locale: Locale {
+        Locale(identifier: rawValue)
+    }
+
+    var localizedName: String {
+        let locale = Locale.autoupdatingCurrent
+        let name = locale.localizedString(forLanguageCode: rawValue) ?? rawValue
+
+        return name.prefix(1).uppercased(with: locale) + String(name.dropFirst())
+    }
+
+    static var deviceDefault: KeyboardLanguage {
+        // Пользователь мог задать для приложения отдельный язык, поэтому перебираем
+        // всю системную цепочку предпочтений, а не только текущий регион устройства.
+        for identifier in Locale.preferredLanguages {
+            let locale = Locale(identifier: identifier)
+            guard let languageCode = locale.language.languageCode?.identifier,
+                  let language = KeyboardLanguage(rawValue: languageCode) else {
+                continue
+            }
+
+            return language
+        }
+
+        return .english
+    }
 }
 
 enum GlagoliticFont {

@@ -51,6 +51,12 @@ struct SettingsView: View {
     }
 
     @AppStorage(
+        KeyboardSettingsKey.language,
+        store: UserDefaults(suiteName: Config.APP_GROUP_NAME)
+    )
+    private var keyboardLanguageIdentifier = KeyboardLanguage.deviceDefault.rawValue
+
+    @AppStorage(
         KeyboardSettingsKey.isSystemFontAndSize,
         store: UserDefaults(suiteName: Config.APP_GROUP_NAME)
     )
@@ -71,6 +77,14 @@ struct SettingsView: View {
     var body: some View {
         List {
             Section {
+                Picker("Keyboard layout", selection: keyboardLanguage) {
+                    ForEach(KeyboardLanguage.allCases) { language in
+                        Text(language.localizedName)
+                            .tag(language)
+                    }
+                }
+                .pickerStyle(.menu)
+
                 VStack(
                     alignment: .leading,
                     spacing: SettingsMetrics.letterStyleSpacing
@@ -103,6 +117,7 @@ struct SettingsView: View {
                 Text("Keyboard")
             } footer: {
                 VStack(alignment: .leading) {
+                    Text("The initial layout is selected from the device language. You can change it at any time.")
                     Text("The selected style changes how letters appear on keyboard keys.")
                     Text("Automatic capitalization and key sound settings.")
                 }
@@ -115,6 +130,18 @@ struct SettingsView: View {
 }
 
 private extension SettingsView {
+
+    private var keyboardLanguage: Binding<KeyboardLanguage> {
+        Binding(
+            get: {
+                KeyboardLanguage(rawValue: keyboardLanguageIdentifier)
+                    ?? KeyboardLanguage.deviceDefault
+            },
+            set: { language in
+                keyboardLanguageIdentifier = language.rawValue
+            }
+        )
+    }
 
     private var keyboardLetterStyle: Binding<LetterStyle> {
         Binding(

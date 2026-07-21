@@ -673,6 +673,28 @@
         }
       }
     },
+    "Keyboard layout" : {
+      "localizations" : {
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Raspored tipkovnice"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Раскладка клавиатуры"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Розкладка клавіатури"
+          }
+        }
+      }
+    },
     "Keyboard → Keyboards → Add New Keyboard" : {
       "localizations" : {
         "hr" : {
@@ -1331,6 +1353,28 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Не вдалося визначити результат покупки."
+          }
+        }
+      }
+    },
+    "The initial layout is selected from the device language. You can change it at any time." : {
+      "localizations" : {
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Početni raspored odabire se prema jeziku uređaja. Možete ga promijeniti u bilo kojem trenutku."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Начальная раскладка выбирается по языку устройства. Её можно изменить в любое время."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Початкова розкладка вибирається за мовою пристрою. Її можна змінити будь-коли."
           }
         }
       }

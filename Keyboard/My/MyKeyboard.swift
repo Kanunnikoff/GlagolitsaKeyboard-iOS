@@ -11,6 +11,12 @@ import SwiftUI
 struct MyKeyboard: View {
 
     @AppStorage(
+        KeyboardSettingsKey.language,
+        store: UserDefaults(suiteName: Config.APP_GROUP_NAME)
+    )
+    private var languageIdentifier = KeyboardLanguage.deviceDefault.rawValue
+
+    @AppStorage(
         KeyboardSettingsKey.isSystemFontAndSize,
         store: UserDefaults(suiteName: Config.APP_GROUP_NAME)
     )
@@ -78,7 +84,7 @@ private extension MyKeyboard {
     }
 
     var keyboardLayout: KeyboardLayout {
-        let inputSets = GlagoliticInputSetProvider()
+        let inputSets = GlagoliticInputSetProvider(language: selectedLanguage)
 
         // Базовый построитель сохраняет служебные клавиши и правильные переходы
         // между буквенным, цифровым и символьным режимами. Пользовательскими
@@ -136,6 +142,10 @@ private extension MyKeyboard {
 
     func customCalloutActions(for action: KeyboardAction) -> [KeyboardAction]? {
         GlagoliticCalloutActionProvider().calloutActions(for: action)
+    }
+
+    var selectedLanguage: KeyboardLanguage {
+        KeyboardLanguage(rawValue: languageIdentifier) ?? .deviceDefault
     }
 }
 

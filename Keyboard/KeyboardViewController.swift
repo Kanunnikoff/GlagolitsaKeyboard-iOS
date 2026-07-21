@@ -12,6 +12,7 @@ final class KeyboardViewController: KeyboardInputViewController {
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
 
+        applyKeyboardLanguageSetting()
         applyAutocapitalizationSetting()
     }
 
@@ -35,7 +36,7 @@ final class KeyboardViewController: KeyboardInputViewController {
 
             // KeyboardKit во время настройки заменяет стандартные службы, поэтому
             // пользовательский обработчик устанавливается только после завершения.
-            self.state.keyboardContext.locale = .russian
+            self.applyKeyboardLanguageSetting()
             self.applyAutocapitalizationSetting()
 
             let actionHandler = MyKeyboardActionHandler(controller: self)
@@ -71,6 +72,17 @@ final class KeyboardViewController: KeyboardInputViewController {
 
 private extension KeyboardViewController {
 
+    var selectedKeyboardLanguage: KeyboardLanguage {
+        let userDefaults = UserDefaults(suiteName: Config.APP_GROUP_NAME)
+        userDefaults?.synchronize()
+
+        guard let identifier = userDefaults?.string(forKey: KeyboardSettingsKey.language) else {
+            return .deviceDefault
+        }
+
+        return KeyboardLanguage(rawValue: identifier) ?? .deviceDefault
+    }
+
     var isAutocapitalizationEnabled: Bool {
         let userDefaults = UserDefaults(suiteName: Config.APP_GROUP_NAME)
 
@@ -99,6 +111,13 @@ private extension KeyboardViewController {
                 : .lowercased
         )
     }
+
+    func applyKeyboardLanguageSetting() {
+        // Локаль нужна библиотеке для системных служебных клавиш, направления
+        // ввода и правил регистра. Сами буквенные ряды строятся отдельно по той
+        // же сохранённой настройке в MyKeyboard.
+        state.keyboardContext.locale = selectedKeyboardLanguage.locale
+    }
 }
 
 private extension KeyboardApp {
@@ -106,6 +125,6 @@ private extension KeyboardApp {
     static let glagolitic = KeyboardApp(
         name: "Glagolitic",
         appGroupId: Config.APP_GROUP_NAME,
-        locales: [.russian]
+        locales: KeyboardLanguage.allCases.map(\.locale)
     )
 }
