@@ -71,6 +71,25 @@ struct GlagoliticInputSetProvider {
     }
 }
 
+extension KeyboardLanguage {
+
+    func glagoliticText(for modernText: String) -> String {
+        modernText.map { character in
+            let modernLetter = String(character)
+            let lowercasedLetter = modernLetter.lowercased(with: locale)
+            let glagoliticLetter = glagoliticEquivalent(for: lowercasedLetter)
+
+            // Таблица соответствий хранится в нижнем регистре. Регистр каждого
+            // исходного знака переносим на весь результат, включая составные
+            // соответствия наподобие македонских Љ, Њ и Џ.
+            return modernLetter == lowercasedLetter
+                ? glagoliticLetter
+                : glagoliticLetter.uppercased(with: locale)
+        }
+        .joined()
+    }
+}
+
 private extension KeyboardLanguage {
 
     var modernRows: [[String]] {

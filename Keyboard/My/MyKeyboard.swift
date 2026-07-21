@@ -42,6 +42,7 @@ struct MyKeyboard: View {
                 MyKeyboardButtonContent(
                     action: parameters.item.action,
                     keyboardContext: keyboardContext,
+                    language: selectedLanguage,
                     standardContent: parameters.view
                 )
             },
@@ -179,11 +180,15 @@ private struct MyKeyboardButtonContent<StandardContent: View>: View {
 
     let action: KeyboardAction
     let keyboardContext: KeyboardContext
+    let language: KeyboardLanguage
     let standardContent: StandardContent
 
     @ViewBuilder
     var body: some View {
-        if let title = MyKeyboardAppearance.buttonTitle(for: action) {
+        if let title = MyKeyboardAppearance.buttonTitle(
+            for: action,
+            language: language
+        ) {
             Keyboard.ButtonTitle(
                 text: title,
                 action: action

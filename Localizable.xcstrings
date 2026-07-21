@@ -4,6 +4,24 @@
     "© 2022 Dmitry Kanunnikoff" : {
       "extractionState" : "manual",
       "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2022 Дзмітрый Кануннікаў"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2022 Дмитрий Канунников"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2022 Dmitry Kanunnikoff"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -16,46 +34,22 @@
             "value" : "© 2022 Dmitry Kanunnikoff"
           }
         },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "© 2022 Дмитрiй Канунниковъ"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "© 2022 Дмитрiй Канунниковъ"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "© 2022 Dmitry Kanunnikoff"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "© 2022 Dmitry Kanunnikoff"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "© 2022 Дмитрий Канунников"
-          }
-        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "© 2022 Дмитриј Канунников"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "© 2022 Дзмітрый Кануннікаў"
+            "value" : "© 2022 Дмитрiй Канунниковъ"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2022 Dmitry Kanunnikoff"
           }
         },
         "sl" : {
@@ -63,39 +57,21 @@
             "state" : "translated",
             "value" : "© 2022 Dmitry Kanunnikoff"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2022 Дмитрiй Канунниковъ"
+          }
         }
       }
     },
     "© 2026 Dmitry Kanunnikoff" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "© 2026 Dmitry Kanunnikoff"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "© 2026 Дмитрiй Канунниковъ"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "© 2026 Дмитрiй Канунниковъ"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "© 2026 Dmitry Kanunnikoff"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "© 2026 Dmitry Kanunnikoff"
+            "value" : "© 2026 Дзмітрый Кануннікаў"
           }
         },
         "bg" : {
@@ -104,16 +80,34 @@
             "value" : "© 2026 Дмитрий Канунников"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 Dmitry Kanunnikoff"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 Dmitry Kanunnikoff"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "© 2026 Дмитриј Канунников"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "© 2026 Дзмітрый Кануннікаў"
+            "value" : "© 2026 Дмитрiй Канунниковъ"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 Dmitry Kanunnikoff"
           }
         },
         "sl" : {
@@ -121,40 +115,22 @@
             "state" : "translated",
             "value" : "© 2026 Dmitry Kanunnikoff"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 Дмитрiй Канунниковъ"
+          }
         }
       }
     },
     "Ability to enable system font and sound when pressing keys." : {
       "extractionState" : "stale",
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Mogućnost odabira fonta i uključenja zvuka pri tipkanju."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Возможность включения системного шрифта и звука при нажатии клавиш."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Можливість увімкнення системного шрифту та звуку при натисканні клавіш."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Možnost zapnout systémové písmo a zvuk při stisknutí kláves."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Možnosť zapnúť systémové písmo a zvuk pri stlačení klávesov."
+            "value" : "Магчымасць уключыць сістэмны шрыфт і гук пры націсканні клавіш."
           }
         },
         "bg" : {
@@ -163,16 +139,34 @@
             "value" : "Възможност за включване на системния шрифт и звука при натискане на клавишите."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Možnost zapnout systémové písmo a zvuk při stisknutí kláves."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mogućnost odabira fonta i uključenja zvuka pri tipkanju."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Можност за вклучување на системскиот фонт и звукот при притискање на копчињата."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Магчымасць уключыць сістэмны шрыфт і гук пры націсканні клавіш."
+            "value" : "Возможность включения системного шрифта и звука при нажатии клавиш."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Možnosť zapnúť systémové písmo a zvuk pri stlačení klávesov."
           }
         },
         "sl" : {
@@ -180,39 +174,21 @@
             "state" : "translated",
             "value" : "Možnost vklopa sistemske pisave in zvoka ob pritisku tipk."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Можливість увімкнення системного шрифту та звуку при натисканні клавіш."
+          }
         }
       }
     },
     "About" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "O aplikaciji"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "О программе"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Про програму"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "O aplikaci"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "O aplikácii"
+            "value" : "Пра праграму"
           }
         },
         "bg" : {
@@ -221,16 +197,34 @@
             "value" : "За приложението"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O aplikaci"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O aplikaciji"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "За апликацијата"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пра праграму"
+            "value" : "О программе"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O aplikácii"
           }
         },
         "sl" : {
@@ -238,39 +232,21 @@
             "state" : "translated",
             "value" : "O aplikaciji"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Про програму"
+          }
         }
       }
     },
     "Add the “Glagolitic” keyboard." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dodajte tipkovnicu „Glagolitic”."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Добавьте клавиатуру «Глаголица»."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Додайте клавіатуру «Глаголиця»."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Přidejte klávesnici „Hlaholice“."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pridajte klávesnicu „Hlaholika“."
+            "value" : "Дадайце клавіятуру «Глаголіца»."
           }
         },
         "bg" : {
@@ -279,16 +255,34 @@
             "value" : "Добавете клавиатурата „Глаголица“."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přidejte klávesnici „Hlaholice“."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dodajte tipkovnicu „Glagolitic”."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Додајте ја тастатурата „Глаголица“."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дадайце клавіятуру «Глаголіца»."
+            "value" : "Добавьте клавиатуру «Глаголица»."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pridajte klávesnicu „Hlaholika“."
           }
         },
         "sl" : {
@@ -296,16 +290,46 @@
             "state" : "translated",
             "value" : "Dodajte tipkovnico »Glagolica«."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Додайте клавіатуру «Глаголиця»."
+          }
         }
       }
     },
     "Alphabet" : {
       "comment" : "Updated interface",
       "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Алфавіт"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Азбука"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Abeceda"
+          }
+        },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abeceda"
+          }
+        },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Азбука"
           }
         },
         "ru" : {
@@ -314,40 +338,10 @@
             "value" : "Алфавит"
           }
         },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Абетка"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Abeceda"
-          }
-        },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Abeceda"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Азбука"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Азбука"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Алфавіт"
           }
         },
         "sl" : {
@@ -355,39 +349,21 @@
             "state" : "translated",
             "value" : "Abeceda"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Абетка"
+          }
         }
       }
     },
     "Angular" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Uglato"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Угловатое"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Кутасте"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hranaté"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hranaté"
+            "value" : "Вуглаватае"
           }
         },
         "bg" : {
@@ -396,22 +372,46 @@
             "value" : "Ъгловато"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hranaté"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Uglato"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Аголно"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вуглаватае"
+            "value" : "Угловатое"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hranaté"
           }
         },
         "sl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oglato"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Кутасте"
           }
         }
       }
@@ -420,31 +420,7 @@
       "comment" : "A heading for the App Store section.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "App Store"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "App Store"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "App Store"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "App Store"
-          }
-        },
-        "sk" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "App Store"
@@ -456,19 +432,43 @@
             "value" : "App Store"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Store"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Store"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "App Store"
           }
         },
-        "be" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Store"
+          }
+        },
+        "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "App Store"
           }
         },
         "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App Store"
+          }
+        },
+        "uk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "App Store"
@@ -478,34 +478,10 @@
     },
     "Automatic capital letter at the beginning of a sentence" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Automatsko veliko slovo na početku rečenice"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Заглавная буква в начале предложения"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Велика літера на початку речення"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Automatické velké písmeno na začátku věty"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Automatické veľké písmeno na začiatku vety"
+            "value" : "Аўтаматычная вялікая літара ў пачатку сказа"
           }
         },
         "bg" : {
@@ -514,16 +490,34 @@
             "value" : "Автоматична главна буква в началото на изречението"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatické velké písmeno na začátku věty"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatsko veliko slovo na početku rečenice"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Автоматска голема буква на почетокот на реченицата"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Аўтаматычная вялікая літара ў пачатку сказа"
+            "value" : "Заглавная буква в начале предложения"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Automatické veľké písmeno na začiatku vety"
           }
         },
         "sl" : {
@@ -531,39 +525,21 @@
             "state" : "translated",
             "value" : "Samodejna velika začetnica na začetku povedi"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Велика літера на початку речення"
+          }
         }
       }
     },
     "Automatic capitalization and key sound settings." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postavke automatskog velikog slova i zvuka tipki."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Настройки автоматической заглавной буквы и звука клавиш."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Налаштування автоматичної великої літери та звуку клавіш."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nastavení automatických velkých písmen a zvuku kláves."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nastavenia automatických veľkých písmen a zvuku klávesov."
+            "value" : "Налады аўтаматычных вялікіх літар і гуку клавіш."
           }
         },
         "bg" : {
@@ -572,16 +548,34 @@
             "value" : "Настройки за автоматични главни букви и звук на клавишите."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavení automatických velkých písmen a zvuku kláves."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Postavke automatskog velikog slova i zvuka tipki."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Поставки за автоматски големи букви и звук на копчињата."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Налады аўтаматычных вялікіх літар і гуку клавіш."
+            "value" : "Настройки автоматической заглавной буквы и звука клавиш."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavenia automatických veľkých písmen a zvuku klávesov."
           }
         },
         "sl" : {
@@ -589,39 +583,21 @@
             "state" : "translated",
             "value" : "Nastavitve samodejnih velikih začetnic in zvoka tipk."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Налаштування автоматичної великої літери та звуку клавіш."
+          }
         }
       }
     },
     "Check Input" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Provjerite unos"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Проверьте ввод"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Перевірте введення"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vyzkoušet psaní"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vyskúšať písanie"
+            "value" : "Праверыць увод"
           }
         },
         "bg" : {
@@ -630,16 +606,34 @@
             "value" : "Проверка на въвеждането"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyzkoušet psaní"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Provjerite unos"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Проверка на внесувањето"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Праверыць увод"
+            "value" : "Проверьте ввод"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vyskúšať písanie"
           }
         },
         "sl" : {
@@ -647,39 +641,21 @@
             "state" : "translated",
             "value" : "Preizkus vnosa"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Перевірте введення"
+          }
         }
       }
     },
     "Delete" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izbriši"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Удалить"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Видалити"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Smazat"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Odstrániť"
+            "value" : "Выдаліць"
           }
         },
         "bg" : {
@@ -688,16 +664,34 @@
             "value" : "Изтриване"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Smazat"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Izbriši"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Избриши"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выдаліць"
+            "value" : "Удалить"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odstrániť"
           }
         },
         "sl" : {
@@ -705,39 +699,21 @@
             "state" : "translated",
             "value" : "Izbriši"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Видалити"
+          }
         }
       }
     },
     "Detailed information about how the application uses your data." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Detaljne informacije o načinu kako aplikacija koristi Vaše podatke."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Подробная информация о том, как приложение использует Ваши данные."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Детальна інформація про те, як програма використовує Ваші дані."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Podrobné informace o tom, jak aplikace používá vaše data."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Podrobné informácie o tom, ako aplikácia používa vaše údaje."
+            "value" : "Падрабязная інфармацыя пра тое, як праграма выкарыстоўвае вашы даныя."
           }
         },
         "bg" : {
@@ -746,16 +722,34 @@
             "value" : "Подробна информация за това как приложението използва вашите данни."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podrobné informace o tom, jak aplikace používá vaše data."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Detaljne informacije o načinu kako aplikacija koristi Vaše podatke."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Детални информации за тоа како апликацијата ги користи вашите податоци."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Падрабязная інфармацыя пра тое, як праграма выкарыстоўвае вашы даныя."
+            "value" : "Подробная информация о том, как приложение использует Ваши данные."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podrobné informácie o tom, ako aplikácia používa vaše údaje."
           }
         },
         "sl" : {
@@ -763,15 +757,111 @@
             "state" : "translated",
             "value" : "Podrobne informacije o tem, kako aplikacija uporablja vaše podatke."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Детальна інформація про те, як програма використовує Ваші дані."
+          }
+        }
+      }
+    },
+    "Enter" : {
+      "comment" : "The word shown on the primary keyboard key before conversion to Glagolitic.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Увод"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Въведи"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vstup"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unos"
+          }
+        },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Внес"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ввод"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vstup"
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vnos"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ввід"
+          }
         }
       }
     },
     "Error" : {
       "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Памылка"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Грешка"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Chyba"
+          }
+        },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pogreška"
+          }
+        },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Грешка"
           }
         },
         "ru" : {
@@ -780,40 +870,10 @@
             "value" : "Ошибка"
           }
         },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Помилка"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Chyba"
-          }
-        },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Chyba"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Грешка"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Грешка"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Памылка"
           }
         },
         "sl" : {
@@ -821,39 +881,21 @@
             "state" : "translated",
             "value" : "Napaka"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Помилка"
+          }
         }
       }
     },
     "Feedback" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Povratna informacija"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Обратная связь"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Зворотній зв'язок"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zpětná vazba"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Spätná väzba"
+            "value" : "Зваротная сувязь"
           }
         },
         "bg" : {
@@ -862,16 +904,34 @@
             "value" : "Обратна връзка"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zpětná vazba"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Povratna informacija"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Повратни информации"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Зваротная сувязь"
+            "value" : "Обратная связь"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spätná väzba"
           }
         },
         "sl" : {
@@ -879,27 +939,27 @@
             "state" : "translated",
             "value" : "Povratne informacije"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Зворотній зв'язок"
+          }
         }
       }
     },
     "Glagolitic" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Glagolitic"
+            "value" : "Глаголіца"
           }
         },
-        "ru" : {
+        "bg" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Глаголица"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Глаголиця"
           }
         },
         "cs" : {
@@ -908,16 +968,10 @@
             "value" : "Hlaholice"
           }
         },
-        "sk" : {
+        "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hlaholika"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Глаголица"
+            "value" : "Glagolitic"
           }
         },
         "mk" : {
@@ -926,10 +980,16 @@
             "value" : "Глаголица"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Глаголіца"
+            "value" : "Глаголица"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlaholika"
           }
         },
         "sl" : {
@@ -937,39 +997,21 @@
             "state" : "translated",
             "value" : "Glagolica"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Глаголиця"
+          }
         }
       }
     },
     "Glagolitic alphabet" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Glagoljska abeceda"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Глаголический алфавит"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Глаголична абетка"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hlaholská abeceda"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hlaholská abeceda"
+            "value" : "Глагалічны алфавіт"
           }
         },
         "bg" : {
@@ -978,16 +1020,34 @@
             "value" : "Глаголическа азбука"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlaholská abeceda"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glagoljska abeceda"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Глаголска азбука"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Глагалічны алфавіт"
+            "value" : "Глаголический алфавит"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlaholská abeceda"
           }
         },
         "sl" : {
@@ -995,39 +1055,21 @@
             "state" : "translated",
             "value" : "Glagolska abeceda"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Глаголична абетка"
+          }
         }
       }
     },
     "Glagolitic: Translator" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Glagolitic: Translator"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Глаголица: переводчик"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Глаголиця: перекладач"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hlaholice: překladač"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hlaholika: prekladač"
+            "value" : "Глаголіца: перакладчык"
           }
         },
         "bg" : {
@@ -1036,16 +1078,34 @@
             "value" : "Глаголица: преводач"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlaholice: překladač"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glagolitic: Translator"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Глаголица: преведувач"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Глаголіца: перакладчык"
+            "value" : "Глаголица: переводчик"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlaholika: prekladač"
           }
         },
         "sl" : {
@@ -1053,39 +1113,21 @@
             "state" : "translated",
             "value" : "Glagolica: prevajalnik"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Глаголиця: перекладач"
+          }
         }
       }
     },
     "Hide Keyboard" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sakrij tipkovnicu"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Скрыть клавиатуру"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Сховати клавіатуру"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Skrýt klávesnici"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Skryť klávesnicu"
+            "value" : "Схаваць клавіятуру"
           }
         },
         "bg" : {
@@ -1094,16 +1136,34 @@
             "value" : "Скриване на клавиатурата"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skrýt klávesnici"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sakrij tipkovnicu"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Скриј ја тастатурата"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Схаваць клавіятуру"
+            "value" : "Скрыть клавиатуру"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Skryť klávesnicu"
           }
         },
         "sl" : {
@@ -1111,39 +1171,21 @@
             "state" : "translated",
             "value" : "Skrij tipkovnico"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Сховати клавіатуру"
+          }
         }
       }
     },
     "How to enable the keyboard" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kako uključiti tipkovnicu"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Как включить клавиатуру"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Як увімкнути клавіатуру"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jak zapnout klávesnici"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ako zapnúť klávesnicu"
+            "value" : "Як уключыць клавіятуру"
           }
         },
         "bg" : {
@@ -1152,16 +1194,34 @@
             "value" : "Как да включите клавиатурата"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jak zapnout klávesnici"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kako uključiti tipkovnicu"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Како да ја вклучите тастатурата"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Як уключыць клавіятуру"
+            "value" : "Как включить клавиатуру"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ako zapnúť klávesnicu"
           }
         },
         "sl" : {
@@ -1169,39 +1229,21 @@
             "state" : "translated",
             "value" : "Kako omogočiti tipkovnico"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Як увімкнути клавіатуру"
+          }
         }
       }
     },
     "I truly appreciate your wish to support the project, but the purchase could not be completed. Please try again later." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Cijenim Vašu želju da podržite projekt, ali kupnju nije bilo moguće dovršiti. Pokušajte ponovno poslije."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Я очень ценю Ваше желание поддержать проект, но покупку не удалось завершить. Пожалуйста, повторите попытку позже."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Я дуже ціную Ваше бажання підтримати проєкт, але покупку не вдалося завершити. Будь ласка, повторіть спробу пізніше."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Velmi si vážím vaší snahy podpořit projekt, ale nákup se nepodařilo dokončit. Zkuste to prosím později."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veľmi si vážim vašu snahu podporiť projekt, ale nákup sa nepodarilo dokončiť. Skúste to, prosím, neskôr."
+            "value" : "Я вельмі цаню ваша жаданне падтрымаць праект, але куплю не ўдалося завяршыць. Калі ласка, паўтарыце спробу пазней."
           }
         },
         "bg" : {
@@ -1210,16 +1252,34 @@
             "value" : "Искрено оценявам желанието ви да подкрепите проекта, но покупката не можа да бъде завършена. Моля, опитайте отново по-късно."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velmi si vážím vaší snahy podpořit projekt, ale nákup se nepodařilo dokončit. Zkuste to prosím později."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cijenim Vašu želju da podržite projekt, ali kupnju nije bilo moguće dovršiti. Pokušajte ponovno poslije."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Искрено ја ценам вашата желба да го поддржите проектот, но купувањето не можеше да се заврши. Обидете се повторно подоцна."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Я вельмі цаню ваша жаданне падтрымаць праект, але куплю не ўдалося завяршыць. Калі ласка, паўтарыце спробу пазней."
+            "value" : "Я очень ценю Ваше желание поддержать проект, но покупку не удалось завершить. Пожалуйста, повторите попытку позже."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veľmi si vážim vašu snahu podporiť projekt, ale nákup sa nepodarilo dokončiť. Skúste to, prosím, neskôr."
           }
         },
         "sl" : {
@@ -1227,12 +1287,36 @@
             "state" : "translated",
             "value" : "Iskreno cenim vašo željo podpreti projekt, vendar nakupa ni bilo mogoče dokončati. Poskusite znova pozneje."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я дуже ціную Ваше бажання підтримати проєкт, але покупку не вдалося завершити. Будь ласка, повторіть спробу пізніше."
+          }
         }
       }
     },
     "I'm on Instagram" : {
       "extractionState" : "manual",
       "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я ў Instagram"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аз съм в Instagram"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jsem na Instagramu"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1245,22 +1329,16 @@
             "value" : "Koristim Instagram"
           }
         },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Јас сум на Instagram"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Я в Instagram"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Я у Instagram"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jsem na Instagramu"
           }
         },
         "sk" : {
@@ -1269,28 +1347,16 @@
             "value" : "Som na Instagrame"
           }
         },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Аз съм в Instagram"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Јас сум на Instagram"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Я ў Instagram"
-          }
-        },
         "sl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sem na Instagramu"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я у Instagram"
           }
         }
       }
@@ -1298,6 +1364,24 @@
     "I'm on Twitter" : {
       "extractionState" : "manual",
       "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я ў Twitter"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Аз съм в Twitter"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jsem na Twitteru"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1310,22 +1394,16 @@
             "value" : "Koristim Twitter"
           }
         },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Јас сум на Twitter"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Я в Twitter"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Я у Twitter"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Jsem na Twitteru"
           }
         },
         "sk" : {
@@ -1334,28 +1412,16 @@
             "value" : "Som na Twitteri"
           }
         },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Аз съм в Twitter"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Јас сум на Twitter"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Я ў Twitter"
-          }
-        },
         "sl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sem na Twitterju"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Я у Twitter"
           }
         }
       }
@@ -1363,6 +1429,24 @@
     "If you like the result of my work, then you can, if you wish, support me in one of the above ways." : {
       "extractionState" : "manual",
       "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Калі вам падабаецца вынік маёй працы, вы можаце падтрымаць мяне адным з пералічаных вышэй спосабаў."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ако харесвате резултата от работата ми, можете да ме подкрепите по един от посочените по-горе начини."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokud se vám výsledek mé práce líbí, můžete mě podpořit některým z výše uvedených způsobů."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1375,22 +1459,16 @@
             "value" : "Ako cijenite moj rad, možete ako to želite mi dati podršku na jedan od navedenih načina."
           }
         },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ако ви се допаѓа резултатот од мојата работа, можете да ме поддржите на еден од горенаведените начини."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Если Вам нравится результат моего труда, то Вы можете, при желании, поддержать меня одним из вышеперечисленных способов."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Якщо Вам подобається результат моєї праці, то Ви можете, за бажання, підтримати мене одним із перерахованих вище способів."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pokud se vám výsledek mé práce líbí, můžete mě podpořit některým z výše uvedených způsobů."
           }
         },
         "sk" : {
@@ -1399,62 +1477,26 @@
             "value" : "Ak sa vám výsledok mojej práce páči, môžete ma podporiť niektorým z vyššie uvedených spôsobov."
           }
         },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ако харесвате резултата от работата ми, можете да ме подкрепите по един от посочените по-горе начини."
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ако ви се допаѓа резултатот од мојата работа, можете да ме поддржите на еден од горенаведените начини."
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Калі вам падабаецца вынік маёй працы, вы можаце падтрымаць мяне адным з пералічаных вышэй спосабаў."
-          }
-        },
         "sl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Če vam je rezultat mojega dela všeč, me lahko podprete na enega od zgoraj navedenih načinov."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Якщо Вам подобається результат моєї праці, то Ви можете, за бажання, підтримати мене одним із перерахованих вище способів."
           }
         }
       }
     },
     "If you like the result of my work, you can support me with a tip." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ako Vam se sviđa rezultat mojeg rada, možete me podržati napojnicom."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Если Вам нравится результат моего труда, Вы можете поддержать меня чаевыми."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Якщо Вам подобається результат моєї праці, Ви можете підтримати мене чайовими."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Pokud se vám výsledek mé práce líbí, můžete mě podpořit spropitným."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ak sa vám výsledok mojej práce páči, môžete ma podporiť prepitným."
+            "value" : "Калі вам падабаецца вынік маёй працы, вы можаце падтрымаць мяне чаявымі."
           }
         },
         "bg" : {
@@ -1463,16 +1505,34 @@
             "value" : "Ако харесвате резултата от работата ми, можете да ме подкрепите с бакшиш."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pokud se vám výsledek mé práce líbí, můžete mě podpořit spropitným."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ako Vam se sviđa rezultat mojeg rada, možete me podržati napojnicom."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ако ви се допаѓа резултатот од мојата работа, можете да ме поддржите со бакшиш."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Калі вам падабаецца вынік маёй працы, вы можаце падтрымаць мяне чаявымі."
+            "value" : "Если Вам нравится результат моего труда, Вы можете поддержать меня чаевыми."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ak sa vám výsledok mojej práce páči, môžete ma podporiť prepitným."
           }
         },
         "sl" : {
@@ -1480,39 +1540,21 @@
             "state" : "translated",
             "value" : "Če vam je rezultat mojega dela všeč, me lahko podprete z napitnino."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Якщо Вам подобається результат моєї праці, Ви можете підтримати мене чайовими."
+          }
         }
       }
     },
     "In any regular text field, hold the keyboard switch key and select “Glagolitic”." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "U bilo kojem običnom polju za unos držite tipku za promjenu tipkovnice i odaberite „Glagolitic”."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "В любом обычном поле ввода удерживайте кнопку переключения клавиатур и выберите «Глаголица»."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "У будь-якому звичайному полі введення утримуйте кнопку перемикання клавіатур і виберіть «Глаголиця»."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "V libovolném běžném textovém poli podržte klávesu pro přepínání klávesnic a vyberte „Hlaholice“."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "V ľubovoľnom bežnom textovom poli podržte kláves na prepínanie klávesníc a vyberte „Hlaholika“."
+            "value" : "У любым звычайным тэкставым полі ўтрымлівайце клавішу пераключэння клавіятур і выберыце «Глаголіца»."
           }
         },
         "bg" : {
@@ -1521,16 +1563,34 @@
             "value" : "В произволно обикновено текстово поле задръжте бутона за смяна на клавиатурата и изберете „Глаголица“."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V libovolném běžném textovém poli podržte klávesu pro přepínání klávesnic a vyberte „Hlaholice“."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U bilo kojem običnom polju za unos držite tipku za promjenu tipkovnice i odaberite „Glagolitic”."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Во кое било обично поле за текст, задржете го копчето за менување тастатура и изберете „Глаголица“."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "У любым звычайным тэкставым полі ўтрымлівайце клавішу пераключэння клавіятур і выберыце «Глаголіца»."
+            "value" : "В любом обычном поле ввода удерживайте кнопку переключения клавиатур и выберите «Глаголица»."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V ľubovoľnom bežnom textovom poli podržte kláves na prepínanie klávesníc a vyberte „Hlaholika“."
           }
         },
         "sl" : {
@@ -1538,39 +1598,21 @@
             "state" : "translated",
             "value" : "V poljubnem običajnem besedilnem polju pridržite tipko za preklop tipkovnice in izberite »Glagolica«."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У будь-якому звичайному полі введення утримуйте кнопку перемикання клавіатур і виберіть «Глаголиця»."
+          }
         }
       }
     },
     "In case of questions or suggestions, I am at your service. Let's be in touch!" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "U slučaju pitanja ili prijedloga, na usluzi sam Vam. Budimo u kontaktu!"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "В случае вопросов или предложений, я к Вашим услугам. Будем на связи!"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "У разі запитань чи пропозицій я до Ваших послуг. Будемо на зв'язку!"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Máte-li dotazy nebo návrhy, jsem vám k dispozici. Zůstaňme v kontaktu!"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ak máte otázky alebo návrhy, som vám k dispozícii. Zostaňme v kontakte!"
+            "value" : "Калі ў вас ёсць пытанні ці прапановы, я да вашых паслуг. Будзем на сувязі!"
           }
         },
         "bg" : {
@@ -1579,16 +1621,34 @@
             "value" : "Ако имате въпроси или предложения, съм на ваше разположение. Нека поддържаме връзка!"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Máte-li dotazy nebo návrhy, jsem vám k dispozici. Zůstaňme v kontaktu!"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U slučaju pitanja ili prijedloga, na usluzi sam Vam. Budimo u kontaktu!"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ако имате прашања или предлози, ви стојам на располагање. Да останеме во контакт!"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Калі ў вас ёсць пытанні ці прапановы, я да вашых паслуг. Будзем на сувязі!"
+            "value" : "В случае вопросов или предложений, я к Вашим услугам. Будем на связи!"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ak máte otázky alebo návrhy, som vám k dispozícii. Zostaňme v kontakte!"
           }
         },
         "sl" : {
@@ -1596,39 +1656,21 @@
             "state" : "translated",
             "value" : "Če imate vprašanja ali predloge, sem vam na voljo. Ostanimo v stiku!"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У разі запитань чи пропозицій я до Ваших послуг. Будемо на зв'язку!"
+          }
         }
       }
     },
     "iOS uses the system keyboard in password and phone-number fields. Some apps may also block third-party keyboards." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "U poljima za lozinku i telefonski broj iOS prikazuje sustavnu tipkovnicu. Neke aplikacije mogu blokirati i tipkovnice drugih proizvođača."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "В полях пароля и номера телефона iOS показывает системную клавиатуру. Некоторые приложения также могут запрещать сторонние клавиатуры."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "У полях пароля та номера телефону iOS показує системну клавіатуру. Деякі застосунки також можуть забороняти сторонні клавіатури."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "V polích pro heslo a telefonní číslo používá iOS systémovou klávesnici. Některé aplikace mohou blokovat také klávesnice jiných výrobců."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "V poliach pre heslo a telefónne číslo používa iOS systémovú klávesnicu. Niektoré aplikácie môžu blokovať aj klávesnice iných výrobcov."
+            "value" : "У палях пароля і нумара тэлефона iOS выкарыстоўвае сістэмную клавіятуру. Некаторыя праграмы таксама могуць блакіраваць староннія клавіятуры."
           }
         },
         "bg" : {
@@ -1637,16 +1679,34 @@
             "value" : "В полетата за парола и телефонен номер iOS използва системната клавиатура. Някои приложения може също да блокират клавиатури на други разработчици."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V polích pro heslo a telefonní číslo používá iOS systémovou klávesnici. Některé aplikace mohou blokovat také klávesnice jiných výrobců."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "U poljima za lozinku i telefonski broj iOS prikazuje sustavnu tipkovnicu. Neke aplikacije mogu blokirati i tipkovnice drugih proizvođača."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Во полињата за лозинка и телефонски број iOS ја користи системската тастатура. Некои апликации може да блокираат и тастатури од други создавачи."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "У палях пароля і нумара тэлефона iOS выкарыстоўвае сістэмную клавіятуру. Некаторыя праграмы таксама могуць блакіраваць староннія клавіятуры."
+            "value" : "В полях пароля и номера телефона iOS показывает системную клавиатуру. Некоторые приложения также могут запрещать сторонние клавиатуры."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "V poliach pre heslo a telefónne číslo používa iOS systémovú klávesnicu. Niektoré aplikácie môžu blokovať aj klávesnice iných výrobcov."
           }
         },
         "sl" : {
@@ -1654,39 +1714,21 @@
             "state" : "translated",
             "value" : "V poljih za geslo in telefonsko številko iOS uporablja sistemsko tipkovnico. Nekatere aplikacije lahko blokirajo tudi tipkovnice drugih ponudnikov."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "У полях пароля та номера телефону iOS показує системну клавіатуру. Деякі застосунки також можуть забороняти сторонні клавіатури."
+          }
         }
       }
     },
     "Key sound" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Zvuk tipke"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Звуковой сигнал клавиш"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Звуковий сигнал клавіш"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zvuk kláves"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zvuk klávesov"
+            "value" : "Гук клавіш"
           }
         },
         "bg" : {
@@ -1695,16 +1737,34 @@
             "value" : "Звук на клавишите"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zvuk kláves"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zvuk tipke"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Звук на копчињата"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Гук клавіш"
+            "value" : "Звуковой сигнал клавиш"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zvuk klávesov"
           }
         },
         "sl" : {
@@ -1712,27 +1772,27 @@
             "state" : "translated",
             "value" : "Zvok tipk"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Звуковий сигнал клавіш"
+          }
         }
       }
     },
     "Keyboard" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipkovnica"
+            "value" : "Клавіятура"
           }
         },
-        "ru" : {
+        "bg" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Клавиатура"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавіатура"
           }
         },
         "cs" : {
@@ -1741,16 +1801,10 @@
             "value" : "Klávesnice"
           }
         },
-        "sk" : {
+        "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klávesnica"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавиатура"
+            "value" : "Tipkovnica"
           }
         },
         "mk" : {
@@ -1759,10 +1813,16 @@
             "value" : "Тастатура"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Клавіятура"
+            "value" : "Клавиатура"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klávesnica"
           }
         },
         "sl" : {
@@ -1770,97 +1830,21 @@
             "state" : "translated",
             "value" : "Tipkovnica"
           }
-        }
-      }
-    },
-    "Keyboard layout" : {
-      "localizations" : {
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Raspored tipkovnice"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Раскладка клавиатуры"
-          }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Розкладка клавіатури"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rozložení klávesnice"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Rozloženie klávesnice"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавиатурна подредба"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Распоред на тастатурата"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Раскладка клавіятуры"
-          }
-        },
-        "sl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Razporeditev tipkovnice"
+            "value" : "Клавіатура"
           }
         }
       }
     },
     "Keyboard → Keyboards → Add New Keyboard" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipkovnica → Tipkovnice → Dodaj novu tipkovnicu"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавиатура → Клавиатуры → Новые клавиатуры"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавіатура → Клавіатури → Додати нову клавіатуру"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klávesnice → Klávesnice → Přidat novou klávesnici"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klávesnica → Klávesnice → Pridať novú klávesnicu"
+            "value" : "Клавіятура → Клавіятуры → Дадаць новую клавіятуру"
           }
         },
         "bg" : {
@@ -1869,16 +1853,34 @@
             "value" : "Клавиатура → Клавиатури → Добавяне на нова клавиатура"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klávesnice → Klávesnice → Přidat novou klávesnici"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipkovnica → Tipkovnice → Dodaj novu tipkovnicu"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тастатура → Тастатури → Додај нова тастатура"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Клавіятура → Клавіятуры → Дадаць новую клавіятуру"
+            "value" : "Клавиатура → Клавиатуры → Новые клавиатуры"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klávesnica → Klávesnice → Pridať novú klávesnicu"
           }
         },
         "sl" : {
@@ -1886,27 +1888,85 @@
             "state" : "translated",
             "value" : "Tipkovnica → Tipkovnice → Dodaj novo tipkovnico"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавіатура → Клавіатури → Додати нову клавіатуру"
+          }
         }
       }
     },
-    "Leave a tip" : {
+    "Keyboard layout" : {
       "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Раскладка клавіятуры"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавиатурна подредба"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rozložení klávesnice"
+          }
+        },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ostavi napojnicu"
+            "value" : "Raspored tipkovnice"
+          }
+        },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Распоред на тастатурата"
           }
         },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Оставить чаевые"
+            "value" : "Раскладка клавиатуры"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rozloženie klávesnice"
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Razporeditev tipkovnice"
           }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Залишити чайові"
+            "value" : "Розкладка клавіатури"
+          }
+        }
+      }
+    },
+    "Leave a tip" : {
+      "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пакінуць чаявыя"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оставете бакшиш"
           }
         },
         "cs" : {
@@ -1915,16 +1975,10 @@
             "value" : "Poslat spropitné"
           }
         },
-        "sk" : {
+        "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Poslať prepitné"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Оставете бакшиш"
+            "value" : "Ostavi napojnicu"
           }
         },
         "mk" : {
@@ -1933,10 +1987,16 @@
             "value" : "Оставете бакшиш"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Пакінуць чаявыя"
+            "value" : "Оставить чаевые"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Poslať prepitné"
           }
         },
         "sl" : {
@@ -1944,39 +2004,21 @@
             "state" : "translated",
             "value" : "Pustite napitnino"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Залишити чайові"
+          }
         }
       }
     },
     "Letter style" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Oblik slova"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Начертание букв"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Накреслення літер"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tvar písmen"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tvar písmen"
+            "value" : "Начартанне літар"
           }
         },
         "bg" : {
@@ -1985,16 +2027,34 @@
             "value" : "Начертание на буквите"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvar písmen"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oblik slova"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Облик на буквите"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Начартанне літар"
+            "value" : "Начертание букв"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tvar písmen"
           }
         },
         "sl" : {
@@ -2002,39 +2062,21 @@
             "state" : "translated",
             "value" : "Oblika črk"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Накреслення літер"
+          }
         }
       }
     },
     "Letters that do not fit on the main layout are available by holding the corresponding keys." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Slova koja nisu na glavnom rasporedu dostupna su dugim pritiskom odgovarajućih tipki."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Буквы, не поместившиеся в основную раскладку, доступны по долгому удержанию соответствующих клавиш."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Літери, що не вмістилися в основній розкладці, доступні за довгим утриманням відповідних клавіш."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Písmena, která se nevejdou do hlavního rozložení, jsou dostupná podržením příslušných kláves."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Písmená, ktoré sa nezmestia do hlavného rozloženia, sú dostupné podržaním príslušných klávesov."
+            "value" : "Літары, якія не змяшчаюцца ў асноўнай раскладцы, даступныя пры ўтрыманні адпаведных клавіш."
           }
         },
         "bg" : {
@@ -2043,16 +2085,34 @@
             "value" : "Буквите, които не се побират в основната подредба, са достъпни чрез задържане на съответните клавиши."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Písmena, která se nevejdou do hlavního rozložení, jsou dostupná podržením příslušných kláves."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Slova koja nisu na glavnom rasporedu dostupna su dugim pritiskom odgovarajućih tipki."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Буквите што не се вклопуваат во главниот распоред се достапни со задржување на соодветните копчиња."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Літары, якія не змяшчаюцца ў асноўнай раскладцы, даступныя пры ўтрыманні адпаведных клавіш."
+            "value" : "Буквы, не поместившиеся в основную раскладку, доступны по долгому удержанию соответствующих клавиш."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Písmená, ktoré sa nezmestia do hlavného rozloženia, sú dostupné podržaním príslušných klávesov."
           }
         },
         "sl" : {
@@ -2060,40 +2120,22 @@
             "state" : "translated",
             "value" : "Črke, ki ne sodijo v glavno razporeditev, so dostopne s pridržanjem ustreznih tipk."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Літери, що не вмістилися в основній розкладці, доступні за довгим утриманням відповідних клавіш."
+          }
         }
       }
     },
     "Main" : {
       "comment" : "Sidebar",
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Početna"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Главная"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Головна"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hlavní"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Hlavné"
+            "value" : "Галоўная"
           }
         },
         "bg" : {
@@ -2102,16 +2144,34 @@
             "value" : "Основни"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlavní"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Početna"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Главно"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Галоўная"
+            "value" : "Главная"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hlavné"
           }
         },
         "sl" : {
@@ -2119,24 +2179,24 @@
             "state" : "translated",
             "value" : "Glavno"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Головна"
+          }
         }
       }
     },
     "Menu" : {
       "localizations" : {
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Izbornik"
-          }
-        },
-        "ru" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Меню"
           }
         },
-        "uk" : {
+        "bg" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Меню"
@@ -2148,16 +2208,10 @@
             "value" : "Nabídka"
           }
         },
-        "sk" : {
+        "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ponuka"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Меню"
+            "value" : "Izbornik"
           }
         },
         "mk" : {
@@ -2166,10 +2220,16 @@
             "value" : "Мени"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Меню"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ponuka"
           }
         },
         "sl" : {
@@ -2177,12 +2237,36 @@
             "state" : "translated",
             "value" : "Meni"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Меню"
+          }
         }
       }
     },
     "My YouTube channel" : {
       "extractionState" : "manual",
       "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мой канал на YouTube"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Моят канал в YouTube"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Můj kanál na YouTube"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2195,22 +2279,16 @@
             "value" : "Moj kanal na YouTube-u"
           }
         },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мојот канал на YouTube"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Мой YouTube-канал"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Мій YouTube-канал"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Můj kanál na YouTube"
           }
         },
         "sk" : {
@@ -2219,50 +2297,32 @@
             "value" : "Môj kanál na YouTube"
           }
         },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Моят канал в YouTube"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Мојот канал на YouTube"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Мой канал на YouTube"
-          }
-        },
         "sl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Moj kanal YouTube"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Мій YouTube-канал"
           }
         }
       }
     },
     "OK" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "U redu"
+            "value" : "OK"
           }
         },
-        "ru" : {
+        "bg" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ОК"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Гаразд"
+            "value" : "OK"
           }
         },
         "cs" : {
@@ -2271,16 +2331,10 @@
             "value" : "OK"
           }
         },
-        "sk" : {
+        "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "OK"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "OK"
+            "value" : "U redu"
           }
         },
         "mk" : {
@@ -2289,7 +2343,13 @@
             "value" : "OK"
           }
         },
-        "be" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ОК"
+          }
+        },
+        "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -2300,39 +2360,21 @@
             "state" : "translated",
             "value" : "V redu"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Гаразд"
+          }
         }
       }
     },
     "Open Settings → General." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Otvorite Postavke → Općenito."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Откройте «Настройки» → «Основные»."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Відкрийте «Налаштування» → «Загальні»."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otevřete Nastavení → Obecné."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Otvorte Nastavenia → Všeobecné."
+            "value" : "Адкрыйце «Налады» → «Асноўныя»."
           }
         },
         "bg" : {
@@ -2341,16 +2383,34 @@
             "value" : "Отворете „Настройки“ → „Основни“."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otevřete Nastavení → Obecné."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otvorite Postavke → Općenito."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Отворете Поставки → Општо."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Адкрыйце «Налады» → «Асноўныя»."
+            "value" : "Откройте «Настройки» → «Основные»."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Otvorte Nastavenia → Všeobecné."
           }
         },
         "sl" : {
@@ -2358,39 +2418,21 @@
             "state" : "translated",
             "value" : "Odprite Nastavitve → Splošno."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Відкрийте «Налаштування» → «Загальні»."
+          }
         }
       }
     },
     "Other apps" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ostale aplikacije"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Другие приложения"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Інші програми"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Další aplikace"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ďalšie aplikácie"
+            "value" : "Іншыя праграмы"
           }
         },
         "bg" : {
@@ -2399,16 +2441,34 @@
             "value" : "Други приложения"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Další aplikace"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ostale aplikacije"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Други апликации"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Іншыя праграмы"
+            "value" : "Другие приложения"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ďalšie aplikácie"
           }
         },
         "sl" : {
@@ -2416,39 +2476,21 @@
             "state" : "translated",
             "value" : "Druge aplikacije"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Інші програми"
+          }
         }
       }
     },
     "Privacy Policy" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Politika Privatnosti"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Политика конфиденциальности"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Політика конфіденційності"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zásady ochrany osobních údajů"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zásady ochrany osobných údajov"
+            "value" : "Палітыка прыватнасці"
           }
         },
         "bg" : {
@@ -2457,16 +2499,34 @@
             "value" : "Политика за поверителност"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zásady ochrany osobních údajů"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Politika Privatnosti"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Политика за приватност"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Палітыка прыватнасці"
+            "value" : "Политика конфиденциальности"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zásady ochrany osobných údajov"
           }
         },
         "sl" : {
@@ -2474,39 +2534,21 @@
             "state" : "translated",
             "value" : "Pravilnik o zasebnosti"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Політика конфіденційності"
+          }
         }
       }
     },
     "Rate" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ocijeni"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Оценить"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Оцінити"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ohodnotit"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ohodnotiť"
+            "value" : "Ацаніць"
           }
         },
         "bg" : {
@@ -2515,16 +2557,34 @@
             "value" : "Оценяване"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ohodnotit"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ocijeni"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Оцени"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ацаніць"
+            "value" : "Оценить"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ohodnotiť"
           }
         },
         "sl" : {
@@ -2532,39 +2592,21 @@
             "state" : "translated",
             "value" : "Oceni"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Оцінити"
+          }
         }
       }
     },
     "Read" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pročitaj"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Читать"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Читати"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Přečíst"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prečítať"
+            "value" : "Чытаць"
           }
         },
         "bg" : {
@@ -2573,16 +2615,34 @@
             "value" : "Прочетете"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Přečíst"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pročitaj"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Прочитај"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Чытаць"
+            "value" : "Читать"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prečítať"
           }
         },
         "sl" : {
@@ -2590,15 +2650,45 @@
             "state" : "translated",
             "value" : "Preberi"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Читати"
+          }
         }
       }
     },
     "Rounded" : {
       "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Закругленае"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Заоблено"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zaoblené"
+          }
+        },
         "hr" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Oblo"
+          }
+        },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Заоблено"
           }
         },
         "ru" : {
@@ -2607,40 +2697,10 @@
             "value" : "Круглое"
           }
         },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Округле"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zaoblené"
-          }
-        },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zaoblené"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Заоблено"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Заоблено"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Закругленае"
           }
         },
         "sl" : {
@@ -2648,27 +2708,27 @@
             "state" : "translated",
             "value" : "Zaobljeno"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Округле"
+          }
         }
       }
     },
     "Settings" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Postavke"
+            "value" : "Налады"
           }
         },
-        "ru" : {
+        "bg" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Настройки"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Налаштування"
           }
         },
         "cs" : {
@@ -2677,16 +2737,10 @@
             "value" : "Nastavení"
           }
         },
-        "sk" : {
+        "hr" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nastavenia"
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Настройки"
+            "value" : "Postavke"
           }
         },
         "mk" : {
@@ -2695,10 +2749,16 @@
             "value" : "Поставки"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Налады"
+            "value" : "Настройки"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nastavenia"
           }
         },
         "sl" : {
@@ -2706,39 +2766,21 @@
             "state" : "translated",
             "value" : "Nastavitve"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Налаштування"
+          }
         }
       }
     },
     "Share" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Dijeli"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Поделиться"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Поділитися"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sdílet"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zdieľať"
+            "value" : "Падзяліцца"
           }
         },
         "bg" : {
@@ -2747,16 +2789,34 @@
             "value" : "Споделяне"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sdílet"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dijeli"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Сподели"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Падзяліцца"
+            "value" : "Поделиться"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zdieľať"
           }
         },
         "sl" : {
@@ -2764,39 +2824,21 @@
             "state" : "translated",
             "value" : "Deli"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Поділитися"
+          }
         }
       }
     },
     "Some letters are available by holding corresponding letters with similar pronunciations." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Neka su slova dostupna dugim pritiskom odgovarajućih slova sa sličnim izgovorom."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Некоторые буквы доступны по долгому удержанию соответствующих букв со схожим произношением."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Деякі літери доступні за довгим утриманням відповідних літер зі схожою вимовою."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Některá písmena jsou dostupná podržením odpovídajících písmen s podobnou výslovností."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Niektoré písmená sú dostupné podržaním zodpovedajúcich písmen s podobnou výslovnosťou."
+            "value" : "Некаторыя літары даступныя пры ўтрыманні адпаведных літар з падобным вымаўленнем."
           }
         },
         "bg" : {
@@ -2805,16 +2847,34 @@
             "value" : "Някои букви са достъпни чрез задържане на съответните букви с подобно произношение."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Některá písmena jsou dostupná podržením odpovídajících písmen s podobnou výslovností."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neka su slova dostupna dugim pritiskom odgovarajućih slova sa sličnim izgovorom."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Некои букви се достапни со задржување на соодветните букви со сличен изговор."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Некаторыя літары даступныя пры ўтрыманні адпаведных літар з падобным вымаўленнем."
+            "value" : "Некоторые буквы доступны по долгому удержанию соответствующих букв со схожим произношением."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Niektoré písmená sú dostupné podržaním zodpovedajúcich písmen s podobnou výslovnosťou."
           }
         },
         "sl" : {
@@ -2822,12 +2882,36 @@
             "state" : "translated",
             "value" : "Nekatere črke so dostopne s pridržanjem ustreznih črk s podobno izgovorjavo."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Деякі літери доступні за довгим утриманням відповідних літер зі схожою вимовою."
+          }
         }
       }
     },
     "Some letters are available by long holding corresponding letters with similar pronunciations." : {
       "extractionState" : "manual",
       "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Некаторыя літары даступныя пры доўгім утрыманні адпаведных літар з падобным вымаўленнем."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Някои букви са достъпни чрез продължително задържане на съответните букви с подобно произношение."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Některá písmena jsou dostupná dlouhým podržením odpovídajících písmen s podobnou výslovností."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2840,22 +2924,16 @@
             "value" : "Neka slova su dostupna dugim pritiskom određenih slova sa sličnim izgovorom."
           }
         },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Некои букви се достапни со долго задржување на соодветните букви со сличен изговор."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Некоторые буквы доступны по долгому удержанию соответствующих букв со схожим произношением."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Деякі літери доступні для тривалого утримання відповідних літер зі схожою вимовою."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Některá písmena jsou dostupná dlouhým podržením odpovídajících písmen s podobnou výslovností."
           }
         },
         "sk" : {
@@ -2864,62 +2942,26 @@
             "value" : "Niektoré písmená sú dostupné dlhým podržaním zodpovedajúcich písmen s podobnou výslovnosťou."
           }
         },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Някои букви са достъпни чрез продължително задържане на съответните букви с подобно произношение."
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Некои букви се достапни со долго задржување на соодветните букви со сличен изговор."
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Некаторыя літары даступныя пры доўгім утрыманні адпаведных літар з падобным вымаўленнем."
-          }
-        },
         "sl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nekatere črke so dostopne z daljšim pridržanjem ustreznih črk s podobno izgovorjavo."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Деякі літери доступні для тривалого утримання відповідних літер зі схожою вимовою."
           }
         }
       }
     },
     "Source: Unicode Glagolitic chart" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Izvor: Unicode tablica glagoljice"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Источник: таблица глаголицы Unicode"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Джерело: таблиця глаголиці Unicode"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zdroj: tabulka hlaholice Unicode"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Zdroj: tabuľka hlaholiky Unicode"
+            "value" : "Крыніца: табліца глаголіцы Unicode"
           }
         },
         "bg" : {
@@ -2928,16 +2970,34 @@
             "value" : "Източник: таблицата на глаголицата в Unicode"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zdroj: tabulka hlaholice Unicode"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Izvor: Unicode tablica glagoljice"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Извор: табела на глаголицата во Unicode"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Крыніца: табліца глаголіцы Unicode"
+            "value" : "Источник: таблица глаголицы Unicode"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zdroj: tabuľka hlaholiky Unicode"
           }
         },
         "sl" : {
@@ -2945,39 +3005,87 @@
             "state" : "translated",
             "value" : "Vir: tabela glagolice Unicode"
           }
-        }
-      }
-    },
-    "Support" : {
-      "localizations" : {
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Podrška"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Поддержка"
-          }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Підтримка"
+            "value" : "Джерело: таблиця глаголиці Unicode"
+          }
+        }
+      }
+    },
+    "Space" : {
+      "comment" : "The word shown on the space key before conversion to Glagolitic.",
+      "extractionState" : "stale",
+      "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Прабел"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Интервал"
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Podpora"
+            "value" : "Mezera"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Space"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Razmak"
+          }
+        },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Празно место"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пробел"
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Podpora"
+            "value" : "Medzera"
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Presledek"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пробіл"
+          }
+        }
+      }
+    },
+    "Support" : {
+      "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Падтрымка"
           }
         },
         "bg" : {
@@ -2986,22 +3094,46 @@
             "value" : "Поддръжка"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podpora"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podrška"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Поддршка"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Падтрымка"
+            "value" : "Поддержка"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Podpora"
           }
         },
         "sl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Podpora"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Підтримка"
           }
         }
       }
@@ -3010,34 +3142,10 @@
       "comment" : "SettingsView",
       "extractionState" : "stale",
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Font i veličina sustava"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Системный шрифт и размер"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Системний шрифт та розмір"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Systémové písmo a velikost"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Systémové písmo a veľkosť"
+            "value" : "Сістэмны шрыфт і памер"
           }
         },
         "bg" : {
@@ -3046,16 +3154,34 @@
             "value" : "Системен шрифт и размер"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Systémové písmo a velikost"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Font i veličina sustava"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Системски фонт и големина"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Сістэмны шрыфт і памер"
+            "value" : "Системный шрифт и размер"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Systémové písmo a veľkosť"
           }
         },
         "sl" : {
@@ -3063,39 +3189,21 @@
             "state" : "translated",
             "value" : "Sistemska pisava in velikost"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Системний шрифт та розмір"
+          }
         }
       }
     },
     "Thank you for the tip!" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hvala na napojnici!"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Спасибо за чаевые!"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Дякую за чайові!"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Děkuji za spropitné!"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ďakujem za prepitné!"
+            "value" : "Дзякуй за чаявыя!"
           }
         },
         "bg" : {
@@ -3104,16 +3212,34 @@
             "value" : "Благодаря за бакшиша!"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Děkuji za spropitné!"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvala na napojnici!"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ви благодарам за бакшишот!"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Дзякуй за чаявыя!"
+            "value" : "Спасибо за чаевые!"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ďakujem za prepitné!"
           }
         },
         "sl" : {
@@ -3121,39 +3247,21 @@
             "state" : "translated",
             "value" : "Hvala za napitnino!"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Дякую за чайові!"
+          }
         }
       }
     },
     "Thank you very much for your support!" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hvala Vam na podršci!"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Большое спасибо за поддержку!"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Щиро дякую за підтримку!"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Moc vám děkuji za podporu!"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veľmi pekne vám ďakujem za podporu!"
+            "value" : "Вялікі дзякуй за падтрымку!"
           }
         },
         "bg" : {
@@ -3162,16 +3270,34 @@
             "value" : "Много ви благодаря за подкрепата!"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Moc vám děkuji za podporu!"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hvala Vam na podršci!"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ви благодарам многу за поддршката!"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вялікі дзякуй за падтрымку!"
+            "value" : "Большое спасибо за поддержку!"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veľmi pekne vám ďakujem za podporu!"
           }
         },
         "sl" : {
@@ -3179,39 +3305,79 @@
             "state" : "translated",
             "value" : "Najlepša hvala za vašo podporo!"
           }
-        }
-      }
-    },
-    "The keyboard contains all letters of the Glagolitic alphabet." : {
-      "localizations" : {
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Tipkovnica sadrži sva slova glagoljske abecede."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавиатура содержит все буквы глаголического алфавита."
-          }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Клавіатура містить усі літери глаголичної абетки."
+            "value" : "Щиро дякую за підтримку!"
+          }
+        }
+      }
+    },
+    "The initial layout is selected from the device language. You can change it at any time." : {
+      "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Пачатковая раскладка выбіраецца паводле мовы прылады. Яе можна змяніць у любы час."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Първоначалната подредба се избира според езика на устройството. Можете да я промените по всяко време."
           }
         },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klávesnice obsahuje všechna písmena hlaholské abecedy."
+            "value" : "Výchozí rozložení se vybere podle jazyka zařízení. Kdykoli ho můžete změnit."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Početni raspored odabire se prema jeziku uređaja. Možete ga promijeniti u bilo kojem trenutku."
+          }
+        },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Почетниот распоред се избира според јазикот на уредот. Можете да го промените во секое време."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Начальная раскладка выбирается по языку устройства. Её можно изменить в любое время."
           }
         },
         "sk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Klávesnica obsahuje všetky písmená hlaholskej abecedy."
+            "value" : "Počiatočné rozloženie sa vyberie podľa jazyka zariadenia. Kedykoľvek ho môžete zmeniť."
+          }
+        },
+        "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Začetna razporeditev se izbere glede na jezik naprave. Kadar koli jo lahko spremenite."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Початкова розкладка вибирається за мовою пристрою. Її можна змінити будь-коли."
+          }
+        }
+      }
+    },
+    "The keyboard contains all letters of the Glagolitic alphabet." : {
+      "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавіятура змяшчае ўсе літары глагалічнага алфавіта."
           }
         },
         "bg" : {
@@ -3220,16 +3386,34 @@
             "value" : "Клавиатурата съдържа всички букви от глаголическата азбука."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klávesnice obsahuje všechna písmena hlaholské abecedy."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipkovnica sadrži sva slova glagoljske abecede."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тастатурата ги содржи сите букви од глаголската азбука."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Клавіятура змяшчае ўсе літары глагалічнага алфавіта."
+            "value" : "Клавиатура содержит все буквы глаголического алфавита."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klávesnica obsahuje všetky písmená hlaholskej abecedy."
           }
         },
         "sl" : {
@@ -3237,12 +3421,36 @@
             "state" : "translated",
             "value" : "Tipkovnica vsebuje vse črke glagolske abecede."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавіатура містить усі літери глаголичної абетки."
+          }
         }
       }
     },
     "The keyboard contains ​all letters of the Glagolitic alphabet." : {
       "extractionState" : "manual",
       "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавіятура змяшчае ўсе літары глагалічнага алфавіта."
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавиатурата съдържа всички букви от глаголическата азбука."
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klávesnice obsahuje všechna písmena hlaholské abecedy."
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3255,22 +3463,16 @@
             "value" : "Tipkovnica sadrži sva slova Glagoljske abecede."
           }
         },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Тастатурата ги содржи сите букви од глаголската азбука."
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Клавиатура содержит ​все буквы глаголического алфавита."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавіатура містить усі букви глаголичного алфавіту."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klávesnice obsahuje všechna písmena hlaholské abecedy."
           }
         },
         "sk" : {
@@ -3279,62 +3481,26 @@
             "value" : "Klávesnica obsahuje všetky písmená hlaholskej abecedy."
           }
         },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавиатурата съдържа всички букви от глаголическата азбука."
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Тастатурата ги содржи сите букви од глаголската азбука."
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавіятура змяшчае ўсе літары глагалічнага алфавіта."
-          }
-        },
         "sl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipkovnica vsebuje vse črke glagolske abecede."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавіатура містить усі букви глаголичного алфавіту."
           }
         }
       }
     },
     "The keyboard has already been opened successfully on this device." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tipkovnica je već uspješno otvorena na ovom uređaju."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавиатура уже была успешно открыта на этом устройстве."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Клавіатуру вже було успішно відкрито на цьому пристрої."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klávesnice již byla na tomto zařízení úspěšně otevřena."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klávesnica už bola na tomto zariadení úspešne otvorená."
+            "value" : "Клавіятура ўжо была паспяхова адкрыта на гэтай прыладзе."
           }
         },
         "bg" : {
@@ -3343,16 +3509,34 @@
             "value" : "Клавиатурата вече е била отворена успешно на това устройство."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klávesnice již byla na tomto zařízení úspěšně otevřena."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tipkovnica je već uspješno otvorena na ovom uređaju."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Тастатурата веќе беше успешно отворена на овој уред."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Клавіятура ўжо была паспяхова адкрыта на гэтай прыладзе."
+            "value" : "Клавиатура уже была успешно открыта на этом устройстве."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klávesnica už bola na tomto zariadení úspešne otvorená."
           }
         },
         "sl" : {
@@ -3360,39 +3544,21 @@
             "state" : "translated",
             "value" : "Tipkovnica je bila v tej napravi že uspešno odprta."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Клавіатуру вже було успішно відкрито на цьому пристрої."
+          }
         }
       }
     },
     "The product is temporarily unavailable. Please try again later." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Proizvod je privremeno nedostupan. Pokušajte ponovno poslije."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Товар временно недоступен. Повторите попытку позже."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Товар тимчасово недоступний. Повторіть спробу пізніше."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Produkt je dočasně nedostupný. Zkuste to prosím později."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Produkt je dočasne nedostupný. Skúste to, prosím, neskôr."
+            "value" : "Прадукт часова недаступны. Калі ласка, паўтарыце спробу пазней."
           }
         },
         "bg" : {
@@ -3401,16 +3567,34 @@
             "value" : "Продуктът временно не е достъпен. Моля, опитайте отново по-късно."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produkt je dočasně nedostupný. Zkuste to prosím později."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Proizvod je privremeno nedostupan. Pokušajte ponovno poslije."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Производот е привремено недостапен. Обидете се повторно подоцна."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Прадукт часова недаступны. Калі ласка, паўтарыце спробу пазней."
+            "value" : "Товар временно недоступен. Повторите попытку позже."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Produkt je dočasne nedostupný. Skúste to, prosím, neskôr."
           }
         },
         "sl" : {
@@ -3418,39 +3602,21 @@
             "state" : "translated",
             "value" : "Izdelek trenutno ni na voljo. Poskusite znova pozneje."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Товар тимчасово недоступний. Повторіть спробу пізніше."
+          }
         }
       }
     },
     "The purchase could not be verified." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kupnju nije bilo moguće potvrditi."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Не удалось проверить покупку."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Не вдалося перевірити покупку."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nákup se nepodařilo ověřit."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Nákup sa nepodarilo overiť."
+            "value" : "Не ўдалося праверыць куплю."
           }
         },
         "bg" : {
@@ -3459,16 +3625,34 @@
             "value" : "Покупката не можа да бъде потвърдена."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nákup se nepodařilo ověřit."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kupnju nije bilo moguće potvrditi."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Купувањето не можеше да се потврди."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не ўдалося праверыць куплю."
+            "value" : "Не удалось проверить покупку."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nákup sa nepodarilo overiť."
           }
         },
         "sl" : {
@@ -3476,39 +3660,21 @@
             "state" : "translated",
             "value" : "Nakupa ni bilo mogoče preveriti."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Не вдалося перевірити покупку."
+          }
         }
       }
     },
     "The purchase result could not be determined." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Rezultat kupnje nije bilo moguće odrediti."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Не удалось определить результат покупки."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Не вдалося визначити результат покупки."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Výsledek nákupu se nepodařilo zjistit."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Výsledok nákupu sa nepodarilo zistiť."
+            "value" : "Не ўдалося вызначыць вынік куплі."
           }
         },
         "bg" : {
@@ -3517,16 +3683,34 @@
             "value" : "Резултатът от покупката не можа да бъде определен."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výsledek nákupu se nepodařilo zjistit."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rezultat kupnje nije bilo moguće odrediti."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Резултатот од купувањето не можеше да се утврди."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Не ўдалося вызначыць вынік куплі."
+            "value" : "Не удалось определить результат покупки."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Výsledok nákupu sa nepodarilo zistiť."
           }
         },
         "sl" : {
@@ -3534,97 +3718,21 @@
             "state" : "translated",
             "value" : "Rezultata nakupa ni bilo mogoče določiti."
           }
-        }
-      }
-    },
-    "The initial layout is selected from the device language. You can change it at any time." : {
-      "localizations" : {
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Početni raspored odabire se prema jeziku uređaja. Možete ga promijeniti u bilo kojem trenutku."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Начальная раскладка выбирается по языку устройства. Её можно изменить в любое время."
-          }
         },
         "uk" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Початкова розкладка вибирається за мовою пристрою. Її можна змінити будь-коли."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Výchozí rozložení se vybere podle jazyka zařízení. Kdykoli ho můžete změnit."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Počiatočné rozloženie sa vyberie podľa jazyka zariadenia. Kedykoľvek ho môžete zmeniť."
-          }
-        },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Първоначалната подредба се избира според езика на устройството. Можете да я промените по всяко време."
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Почетниот распоред се избира според јазикот на уредот. Можете да го промените во секое време."
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Пачатковая раскладка выбіраецца паводле мовы прылады. Яе можна змяніць у любы час."
-          }
-        },
-        "sl" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Začetna razporeditev se izbere glede na jezik naprave. Kadar koli jo lahko spremenite."
+            "value" : "Не вдалося визначити результат покупки."
           }
         }
       }
     },
     "The selected style changes how letters appear on keyboard keys." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Odabrani oblik mijenja izgled slova na tipkama tipkovnice."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Выбранное начертание изменяет вид букв на клавишах."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Вибране накреслення змінює вигляд літер на клавішах."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vybraný tvar mění vzhled písmen na klávesách."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Vybraný tvar mení vzhľad písmen na klávesoch."
+            "value" : "Выбранае начартанне змяняе выгляд літар на клавішах."
           }
         },
         "bg" : {
@@ -3633,16 +3741,34 @@
             "value" : "Избраното начертание променя вида на буквите върху клавишите."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vybraný tvar mění vzhled písmen na klávesách."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Odabrani oblik mijenja izgled slova na tipkama tipkovnice."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Избраниот облик го менува изгледот на буквите на копчињата."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Выбранае начартанне змяняе выгляд літар на клавішах."
+            "value" : "Выбранное начертание изменяет вид букв на клавишах."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vybraný tvar mení vzhľad písmen na klávesoch."
           }
         },
         "sl" : {
@@ -3650,39 +3776,21 @@
             "state" : "translated",
             "value" : "Izbrana oblika spremeni videz črk na tipkah."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Вибране накреслення змінює вигляд літер на клавішах."
+          }
         }
       }
     },
     "Tip" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napojnica"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Чаевые"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Чайові"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Spropitné"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Prepitné"
+            "value" : "Чаявыя"
           }
         },
         "bg" : {
@@ -3691,22 +3799,46 @@
             "value" : "Бакшиш"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Spropitné"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Napojnica"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Бакшиш"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Чаявыя"
+            "value" : "Чаевые"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prepitné"
           }
         },
         "sl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Napitnina"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Чайові"
           }
         }
       }
@@ -3715,6 +3847,24 @@
       "comment" : "MainView",
       "extractionState" : "manual",
       "localizations" : {
+        "be" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Каб уключыць клавіятуру, выканайце наступныя крокі:\n• у наладах прылады перайдзіце ў Асноўныя -> Клавіятура -> Клавіятуры -> Дадаць новую клавіятуру\n• уключыце клавіятуру з назвай «Глаголіца»"
+          }
+        },
+        "bg" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За да включите клавиатурата, изпълнете следните стъпки:\n• в настройките на устройството отворете Основни -> Клавиатура -> Клавиатури -> Добавяне на нова клавиатура\n• включете клавиатурата с име „Глаголица“"
+          }
+        },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Klávesnici zapnete takto:\n• v Nastavení zařízení přejděte na Obecné -> Klávesnice -> Klávesnice -> Přidat novou klávesnici\n• zapněte klávesnici s názvem „Hlaholice“"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3727,22 +3877,16 @@
             "value" : "Da se pojavi tipkovnica, poduzmite slijedeće korake:\n• u Postavkama uređaja odaberite Općenito -> Tipkovnica -> Tipkovnice -> ​Dodaj novu tipkovnicu\n• uključite tipkovnicu zvanu 'Glagolitic'"
           }
         },
+        "mk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "За да ја вклучите тастатурата, следете ги овие чекори:\n• во поставките на уредот одете во Општо -> Тастатура -> Тастатури -> Додај нова тастатура\n• вклучете ја тастатурата со име „Глаголица“"
+          }
+        },
         "ru" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Для включения клавиатуры выполните ​следующие​ шаги:\n• в Настройках устройства зайдите в раздел Основные -> Клавиатура -> Клавиатуры -> ​Новые​ клавиатуры\n• включите клавиатуру с названием 'Glagolitic'"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Щоб увімкнути клавіатуру, виконайте такі дії:\n• у Налаштуваннях пристрою зайдіть у розділ Основні -> Клавіатура -> Клавіатури -> Нові клавіатури\n• увімкніть клавіатуру під назвою 'Glagolitic'"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Klávesnici zapnete takto:\n• v Nastavení zařízení přejděte na Obecné -> Klávesnice -> Klávesnice -> Přidat novou klávesnici\n• zapněte klávesnici s názvem „Hlaholice“"
           }
         },
         "sk" : {
@@ -3751,62 +3895,26 @@
             "value" : "Klávesnicu zapnete takto:\n• v Nastaveniach zariadenia prejdite na Všeobecné -> Klávesnica -> Klávesnice -> Pridať novú klávesnicu\n• zapnite klávesnicu s názvom „Hlaholika“"
           }
         },
-        "bg" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "За да включите клавиатурата, изпълнете следните стъпки:\n• в настройките на устройството отворете Основни -> Клавиатура -> Клавиатури -> Добавяне на нова клавиатура\n• включете клавиатурата с име „Глаголица“"
-          }
-        },
-        "mk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "За да ја вклучите тастатурата, следете ги овие чекори:\n• во поставките на уредот одете во Општо -> Тастатура -> Тастатури -> Додај нова тастатура\n• вклучете ја тастатурата со име „Глаголица“"
-          }
-        },
-        "be" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Каб уключыць клавіятуру, выканайце наступныя крокі:\n• у наладах прылады перайдзіце ў Асноўныя -> Клавіятура -> Клавіятуры -> Дадаць новую клавіятуру\n• уключыце клавіятуру з назвай «Глаголіца»"
-          }
-        },
         "sl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Tipkovnico omogočite tako:\n• v nastavitvah naprave odprite Splošno -> Tipkovnica -> Tipkovnice -> Dodaj novo tipkovnico\n• omogočite tipkovnico z imenom »Glagolica«"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Щоб увімкнути клавіатуру, виконайте такі дії:\n• у Налаштуваннях пристрою зайдіть у розділ Основні -> Клавіатура -> Клавіатури -> Нові клавіатури\n• увімкніть клавіатуру під назвою 'Glagolitic'"
           }
         }
       }
     },
     "Uppercase and lowercase forms of the 47 Glagolitic letters available on the keyboard." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Veliki i mali oblici 47 glagoljskih slova dostupnih na tipkovnici."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Прописные и строчные формы 47 глаголических букв, доступных на клавиатуре."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Великі та малі форми 47 глаголичних літер, доступних на клавіатурі."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Velké a malé tvary 47 hlaholských písmen dostupných na klávesnici."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Veľké a malé tvary 47 hlaholských písmen dostupných na klávesnici."
+            "value" : "Вялікія і малыя формы 47 глагалічных літар, даступных на клавіятуры."
           }
         },
         "bg" : {
@@ -3815,16 +3923,34 @@
             "value" : "Главни и малки форми на 47-те глаголически букви, достъпни на клавиатурата."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Velké a malé tvary 47 hlaholských písmen dostupných na klávesnici."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veliki i mali oblici 47 glagoljskih slova dostupnih na tipkovnici."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Големи и мали облици на 47-те глаголски букви достапни на тастатурата."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Вялікія і малыя формы 47 глагалічных літар, даступных на клавіятуры."
+            "value" : "Прописные и строчные формы 47 глаголических букв, доступных на клавиатуре."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Veľké a malé tvary 47 hlaholských písmen dostupných na klávesnici."
           }
         },
         "sl" : {
@@ -3832,40 +3958,22 @@
             "state" : "translated",
             "value" : "Velike in male oblike 47 glagolskih črk, ki so na voljo na tipkovnici."
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Великі та малі форми 47 глаголичних літер, доступних на клавіатурі."
+          }
         }
       }
     },
     "Version %@, build %@" : {
       "comment" : "AboutView",
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Verzija %@, build %@"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Версия %@, сборка %@"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Версія %@, складання %@"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verze %@, sestavení %@"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Verzia %@, zostava %@"
+            "value" : "Версія %@, зборка %@"
           }
         },
         "bg" : {
@@ -3874,16 +3982,34 @@
             "value" : "Версия %@, компилация %@"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verze %@, sestavení %@"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verzija %@, build %@"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Верзија %@, издание %@"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Версія %@, зборка %@"
+            "value" : "Версия %@, сборка %@"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Verzia %@, zostava %@"
           }
         },
         "sl" : {
@@ -3891,39 +4017,21 @@
             "state" : "translated",
             "value" : "Različica %@, graditev %@"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Версія %@, складання %@"
+          }
         }
       }
     },
     "Write a letter" : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Napišite e-poruku"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Написать письмо"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Написати лист"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Napsat e-mail"
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Napísať e-mail"
+            "value" : "Напісаць ліст"
           }
         },
         "bg" : {
@@ -3932,16 +4040,34 @@
             "value" : "Напишете имейл"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Napsat e-mail"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Napišite e-poruku"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Напишете е-пошта"
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Напісаць ліст"
+            "value" : "Написать письмо"
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Napísať e-mail"
           }
         },
         "sl" : {
@@ -3949,39 +4075,21 @@
             "state" : "translated",
             "value" : "Napišite e-pošto"
           }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Написати лист"
+          }
         }
       }
     },
     "Your opinion is very important to me. Please feel free to rate and write a review." : {
       "localizations" : {
-        "hr" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Vaše mišljenje mi je vrlo važno. Slobodno dajte ocjenu i napišite osvrt."
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ваше мнение очень важно для меня. Пожалуйста, не поленитесь поставить оценку и написать отзыв."
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Ваша думка дуже важлива для мене. Будь ласка, не полінуйтеся поставити оцінку та написати відгук."
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Váš názor je pro mě velmi důležitý. Neváhejte aplikaci ohodnotit a napsat recenzi."
-          }
-        },
-        "sk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Váš názor je pre mňa veľmi dôležitý. Neváhajte aplikáciu ohodnotiť a napísať recenziu."
+            "value" : "Ваша меркаванне вельмі важнае для мяне. Калі ласка, ацаніце праграму і напішыце водгук."
           }
         },
         "bg" : {
@@ -3990,22 +4098,46 @@
             "value" : "Вашето мнение е много важно за мен. Моля, оценете приложението и напишете отзив."
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Váš názor je pro mě velmi důležitý. Neváhejte aplikaci ohodnotit a napsat recenzi."
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vaše mišljenje mi je vrlo važno. Slobodno dajte ocjenu i napišite osvrt."
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Вашето мислење ми е многу важно. Оценете ја апликацијата и напишете рецензија."
           }
         },
-        "be" : {
+        "ru" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ваша меркаванне вельмі важнае для мяне. Калі ласка, ацаніце праграму і напішыце водгук."
+            "value" : "Ваше мнение очень важно для меня. Пожалуйста, не поленитесь поставить оценку и написать отзыв."
+          }
+        },
+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Váš názor je pre mňa veľmi dôležitý. Neváhajte aplikáciu ohodnotiť a napísať recenziu."
           }
         },
         "sl" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Vaše mnenje mi veliko pomeni. Ocenite aplikacijo in napišite mnenje."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ваша думка дуже важлива для мене. Будь ласка, не полінуйтеся поставити оцінку та написати відгук."
           }
         }
       }
@@ -4014,31 +4146,7 @@
       "comment" : "A button that shows the full keyboard.",
       "isCommentAutoGenerated" : true,
       "localizations" : {
-        "hr" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ⰀⰁⰂ"
-          }
-        },
-        "ru" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ⰀⰁⰂ"
-          }
-        },
-        "uk" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ⰀⰁⰂ"
-          }
-        },
-        "cs" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "ⰀⰁⰂ"
-          }
-        },
-        "sk" : {
+        "be" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ⰀⰁⰂ"
@@ -4050,19 +4158,43 @@
             "value" : "ⰀⰁⰂ"
           }
         },
+        "cs" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ⰀⰁⰂ"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ⰀⰁⰂ"
+          }
+        },
         "mk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ⰀⰁⰂ"
           }
         },
-        "be" : {
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ⰀⰁⰂ"
+          }
+        },
+        "sk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ⰀⰁⰂ"
           }
         },
         "sl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ⰀⰁⰂ"
+          }
+        },
+        "uk" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "ⰀⰁⰂ"

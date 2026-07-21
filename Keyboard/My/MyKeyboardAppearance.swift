@@ -5,23 +5,57 @@
 //  Created by Дмитрiй Канунниковъ on 09.07.2022.
 //
 
+import Foundation
 import KeyboardKit
 import SwiftUI
 import UIKit
 
 enum MyKeyboardAppearance {
 
-    static func buttonTitle(for action: KeyboardAction) -> String? {
+    static func buttonTitle(
+        for action: KeyboardAction,
+        language: KeyboardLanguage
+    ) -> String? {
+        let modernTitle: String
+
         switch action {
             case .space:
-                return "Ⱂⱃⱁⰱⰵⰾ"
+                modernTitle = localizedButtonTitle(
+                    forKey: KeyboardButtonLocalizationKey.space,
+                    language: language
+                )
 
             case .primary:
-                return "Ⰲⰲⱁⰴ"
+                modernTitle = localizedButtonTitle(
+                    forKey: KeyboardButtonLocalizationKey.enter,
+                    language: language
+                )
 
             default:
                 return nil
         }
+
+        return language.glagoliticText(for: modernTitle)
+    }
+
+    private static func localizedButtonTitle(
+        forKey key: String,
+        language: KeyboardLanguage
+    ) -> String {
+        // Язык раскладки пользователь выбирает независимо от языка приложения.
+        // Загружаем его каталог явно, иначе Bundle.main вернёт перевод интерфейса.
+        guard let localizationPath = Bundle.main.path(
+            forResource: language.rawValue,
+            ofType: "lproj"
+        ), let localizationBundle = Bundle(path: localizationPath) else {
+            return key
+        }
+
+        return localizationBundle.localizedString(
+            forKey: key,
+            value: key,
+            table: nil
+        )
     }
 
     static func buttonStyle(
@@ -78,6 +112,12 @@ enum MyKeyboardAppearance {
             font.weight
         )
     }
+}
+
+private enum KeyboardButtonLocalizationKey {
+
+    static let enter = "Enter"
+    static let space = "Space"
 }
 
 private extension KeyboardFont.FontType {
