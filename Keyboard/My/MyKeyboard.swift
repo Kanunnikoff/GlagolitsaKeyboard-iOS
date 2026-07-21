@@ -105,7 +105,9 @@ private extension MyKeyboard {
         // Плавающая клавиатура iPad определяется библиотекой как компактная
         // и получает телефонную компоновку, как системная клавиатура iOS.
         if isPadKeyboard {
-            return baseLayout.iPadLayout(for: keyboardContext)
+            return padLayout(
+                from: baseLayout.iPadLayout(for: keyboardContext)
+            )
         }
 
         return phoneLayout(
@@ -146,6 +148,33 @@ private extension MyKeyboard {
         return result
     }
 
+    func padLayout(from layout: KeyboardLayout) -> KeyboardLayout {
+        var result = layout
+
+        guard result.itemRows.indices.contains(PadLayoutMetrics.primaryRowIndex) else {
+            return result
+        }
+
+        let primaryRow = result.itemRows[PadLayoutMetrics.primaryRowIndex]
+        guard primaryRow.count == PadLayoutMetrics.primaryRowItemCount,
+              primaryRow.last?.action.isPrimary == true else {
+            return result
+        }
+
+        // В строке расположены левая служебная клавиша, 11 букв и клавиша ввода.
+        // KeyboardKit оставляет для последней клавиши только неиспользованный
+        // остаток ширины, поэтому на большом iPad она сжимается. Одинаковая
+        // ширина ячеек сохраняет весь ряд и оставляет достаточно места подписи.
+        result.itemRows[PadLayoutMetrics.primaryRowIndex] = primaryRow.map { sourceItem in
+            var item = sourceItem
+            item.size.width = .input
+
+            return item
+        }
+
+        return result
+    }
+
     func customCalloutActions(for action: KeyboardAction) -> [KeyboardAction]? {
         GlagoliticCalloutActionProvider().calloutActions(for: action)
     }
@@ -165,7 +194,21 @@ private enum PhoneAlphabeticLayoutMetrics {
     }
 }
 
+private enum PadLayoutMetrics {
+
+    static let primaryRowIndex = 1
+    static let primaryRowItemCount = 13
+}
+
 private extension KeyboardAction {
+
+    var isPrimary: Bool {
+        if case .primary = self {
+            return true
+        }
+
+        return false
+    }
 
     var isCharacterMargin: Bool {
         if case .characterMargin = self {
@@ -206,6 +249,7 @@ private struct MyEmojiKeyboard: View {
 
     private enum CompactMetrics {
 
+        static let alphabeticButtonWidth: CGFloat = 52
         static let bottomBarHeight: CGFloat = 44
         static let categoryButtonSize: CGFloat = 36
         static let emojiFontSize: CGFloat = 32
@@ -218,6 +262,7 @@ private struct MyEmojiKeyboard: View {
 
     private enum PadMetrics {
 
+        static let alphabeticButtonWidth: CGFloat = 52
         static let bottomBarHeight: CGFloat = 44
         static let categoryButtonSize: CGFloat = 36
         static let columnSpacing: CGFloat = 10
@@ -237,6 +282,8 @@ private struct MyEmojiKeyboard: View {
 
     private let isPadKeyboard: Bool
     private let services: KeyboardServices
+
+    private static let alphabeticButtonTitle = "ⰀⰁⰂ"
 
     @State private var selectedCategory: EmojiCategory = .smileysAndPeople
 
@@ -325,10 +372,8 @@ private extension MyEmojiKeyboard {
 
     var compactBottomBar: some View {
         HStack(spacing: 0) {
-            Button("ⰀⰁⰂ") {
-                services.actionHandler.handle(.keyboardType(.alphabetic))
-            }
-            .frame(width: CompactMetrics.categoryButtonSize)
+            alphabeticKeyboardButton
+                .frame(width: CompactMetrics.alphabeticButtonWidth)
 
             ScrollView(.horizontal, showsIndicators: false) {
                 HStack(spacing: 0) {
@@ -471,11 +516,9 @@ private extension MyEmojiKeyboard {
 
     var padBottomBar: some View {
         HStack(spacing: 0) {
-            Button("ⰀⰁⰂ") {
-                services.actionHandler.handle(.keyboardType(.alphabetic))
-            }
-            .frame(width: PadMetrics.categoryButtonSize)
-            .frame(maxHeight: .infinity)
+            alphabeticKeyboardButton
+                .frame(width: PadMetrics.alphabeticButtonWidth)
+                .frame(maxHeight: .infinity)
 
             // На узкой и разделённой клавиатуре iPad прокручивается только
             // средняя часть, а переход к буквам и служебные кнопки видны всегда.
@@ -525,6 +568,18 @@ private extension MyEmojiKeyboard {
         .buttonStyle(.plain)
         .frame(height: PadMetrics.bottomBarHeight)
         .padding(.horizontal, CompactMetrics.horizontalPadding)
+    }
+
+    var alphabeticKeyboardButton: some View {
+        Button {
+            services.actionHandler.handle(.keyboardType(.alphabetic))
+        } label: {
+            Text(Self.alphabeticButtonTitle)
+                // Глаголические знаки шире латинского «ABC». Запрещаем перенос,
+                // чтобы подпись оставалась цельной и при увеличенном размере текста.
+                .lineLimit(1)
+                .minimumScaleFactor(0.8)
+        }
     }
 
     func emojiButton(
