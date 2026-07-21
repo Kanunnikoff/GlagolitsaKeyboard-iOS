@@ -73,6 +73,11 @@ struct MyKeyboard: View {
         .keyboardCalloutActions { parameters in
             customCalloutActions(for: parameters.action) ?? parameters.standardActions()
         }
+        .keyboardCalloutStyle(
+            MyKeyboardAppearance.calloutStyle(
+                usesSystemFont: usesSystemFont
+            )
+        )
         .environment(\.layoutDirection, .leftToRight)
     }
 }
