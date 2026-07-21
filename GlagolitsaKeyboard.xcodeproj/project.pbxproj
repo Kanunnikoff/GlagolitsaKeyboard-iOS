@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0354C43D300FB7DB0039D525 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0354C43C300FB7DB0039D525 /* GoogleService-Info.plist */; };
 		03B35012300F5675000249DB /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 03B35011300F5675000249DB /* Localizable.xcstrings */; };
 		03B35013300F5675000249DB /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 03B35011300F5675000249DB /* Localizable.xcstrings */; };
 		03B35015300F5675000249DB /* InfoPlist.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 03B35014300F5675000249DB /* InfoPlist.xcstrings */; };
@@ -49,7 +50,6 @@
 		0B400001300E800000C0D3E1 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 0B400004300E800000C0D3E1 /* FirebaseAnalytics */; };
 		0B400002300E800000C0D3E1 /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = 0B400005300E800000C0D3E1 /* FirebaseCrashlytics */; };
 		0B400007300E800000C0D3E1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B400008300E800000C0D3E1 /* AppDelegate.swift */; };
-		0B40000A300E800000C0D3E1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0B400009300E800000C0D3E1 /* GoogleService-Info.plist */; };
 		0B410001300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 0B410003300F000000C0D3E1 /* PrivacyInfo.xcprivacy */; };
 		0B410002300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 0B410004300F000000C0D3E1 /* PrivacyInfo.xcprivacy */; };
 		0B420001300F100000C0D3E1 /* Shafarik-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 0A241CE1293940510021D42B /* Shafarik-Regular.otf */; };
@@ -80,6 +80,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0354C43C300FB7DB0039D525 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		03B35011300F5675000249DB /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
 		03B35014300F5675000249DB /* InfoPlist.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = InfoPlist.xcstrings; sourceTree = "<group>"; };
 		0A1241CC28796A3A00D71CE3 /* GlagolitsaKeyboard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GlagolitsaKeyboard.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -120,7 +121,6 @@
 		0B20000C2F17000200C0D3E1 /* RequestReviewViewModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestReviewViewModifier.swift; sourceTree = "<group>"; };
 		0B20000D2F17000300C0D3E1 /* AlphabetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlphabetView.swift; sourceTree = "<group>"; };
 		0B400008300E800000C0D3E1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		0B400009300E800000C0D3E1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		0B410003300F000000C0D3E1 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		0B410004300F000000C0D3E1 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -173,7 +173,7 @@
 		0A1241CE28796A3A00D71CE3 /* GlagolitsaKeyboard */ = {
 			isa = PBXGroup;
 			children = (
-				0B400009300E800000C0D3E1 /* GoogleService-Info.plist */,
+				0354C43C300FB7DB0039D525 /* GoogleService-Info.plist */,
 				0B410003300F000000C0D3E1 /* PrivacyInfo.xcprivacy */,
 				0A3C773428E076A90031EB74 /* GlagolitsaKeyboard.entitlements */,
 				0A26C47228D1106F004EEFCF /* Info.plist */,
@@ -453,11 +453,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				0B1000082E25700100C0D3E1 /* Store.storekit in Resources */,
+				0354C43D300FB7DB0039D525 /* GoogleService-Info.plist in Resources */,
 				0B410001300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */,
 				0B420001300F100000C0D3E1 /* Shafarik-Regular.otf in Resources */,
 				03B35012300F5675000249DB /* Localizable.xcstrings in Resources */,
 				03B35015300F5675000249DB /* InfoPlist.xcstrings in Resources */,
-				0B40000A300E800000C0D3E1 /* GoogleService-Info.plist in Resources */,
 				0A1241D728796A3C00D71CE3 /* Preview Assets.xcassets in Resources */,
 				0A1241D428796A3C00D71CE3 /* Assets.xcassets in Resources */,
 			);
