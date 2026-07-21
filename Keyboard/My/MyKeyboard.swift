@@ -60,8 +60,8 @@ struct MyKeyboard: View {
                     isPadKeyboard: isPadKeyboard
                 )
             },
-            toolbar: { _ in
-                EmptyView()
+            toolbar: { parameters in
+                parameters.view
             }
         )
         .keyboardCalloutActions { parameters in
