@@ -28,12 +28,30 @@
 		0A29ECA928EE0DC400DBF90F /* GlobalFunc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A29ECA728EE0DC400DBF90F /* GlobalFunc.swift */; };
 		0A3C773628E0770E0031EB74 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A26C46C28D10E24004EEFCF /* Config.swift */; };
 		0A7A0E2728797DFE0032472B /* KeyboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7A0E2628797DFE0032472B /* KeyboardView.swift */; };
-		0A7A0E2A28797E6A0032472B /* MyAutocompleteToolbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7A0E2928797E6A0032472B /* MyAutocompleteToolbar.swift */; };
 		0A7A0E2C28797F9A0032472B /* MyKeyboardAppearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7A0E2B28797F9A0032472B /* MyKeyboardAppearance.swift */; };
 		0A7A0E302879C4160032472B /* MyKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7A0E2F2879C4160032472B /* MyKeyboard.swift */; };
 		0A7A0E34287A11150032472B /* GlagoliticInputSetProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7A0E33287A11150032472B /* GlagoliticInputSetProvider.swift */; };
 		0A7A0E36287A20100032472B /* GlagoliticCalloutActionProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A7A0E35287A20100032472B /* GlagoliticCalloutActionProvider.swift */; };
 		0AC1F03F293A83C000969E35 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0AC1F041293A83C000969E35 /* Localizable.strings */; };
+		0B1000012E25700100C0D3E1 /* TabNavigationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2000012E25700100C0D3E1 /* TabNavigationView.swift */; };
+		0B1000022E25700100C0D3E1 /* StoreProductIdentifiers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2000022E25700100C0D3E1 /* StoreProductIdentifiers.swift */; };
+		0B1000032E25700100C0D3E1 /* PurchaseManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2000032E25700100C0D3E1 /* PurchaseManager.swift */; };
+		0B1000042E25700100C0D3E1 /* TipPurchaseController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2000042E25700100C0D3E1 /* TipPurchaseController.swift */; };
+		0B1000052E25700100C0D3E1 /* ShopViewModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2000052E25700100C0D3E1 /* ShopViewModifier.swift */; };
+		0B1000062E25700100C0D3E1 /* TipsViewModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2000062E25700100C0D3E1 /* TipsViewModifier.swift */; };
+		0B1000072E25700100C0D3E1 /* DoneIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B2000072E25700100C0D3E1 /* DoneIndicatorView.swift */; };
+		0B1000082E25700100C0D3E1 /* Store.storekit in Resources */ = {isa = PBXBuildFile; fileRef = 0B2000082E25700100C0D3E1 /* Store.storekit */; };
+		0B1000092E25700100C0D3E1 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0B2000092E25700100C0D3E1 /* StoreKit.framework */; };
+		0B10000C2F17000200C0D3E1 /* RequestReviewViewModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B20000C2F17000200C0D3E1 /* RequestReviewViewModifier.swift */; };
+		0B10000D2F17000300C0D3E1 /* AlphabetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B20000D2F17000300C0D3E1 /* AlphabetView.swift */; };
+		0B400001300E800000C0D3E1 /* FirebaseAnalytics in Frameworks */ = {isa = PBXBuildFile; productRef = 0B400004300E800000C0D3E1 /* FirebaseAnalytics */; };
+		0B400002300E800000C0D3E1 /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = 0B400005300E800000C0D3E1 /* FirebaseCrashlytics */; };
+		0B400007300E800000C0D3E1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B400008300E800000C0D3E1 /* AppDelegate.swift */; };
+		0B40000A300E800000C0D3E1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0B400009300E800000C0D3E1 /* GoogleService-Info.plist */; };
+		0B410001300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 0B410003300F000000C0D3E1 /* PrivacyInfo.xcprivacy */; };
+		0B410002300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 0B410004300F000000C0D3E1 /* PrivacyInfo.xcprivacy */; };
+		0B500001300F100000C0D3E1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0B500007300F100000C0D3E1 /* InfoPlist.strings */; };
+		0B500002300F100000C0D3E1 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0AC1F041293A83C000969E35 /* Localizable.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,7 +101,6 @@
 		0A3C773428E076A90031EB74 /* GlagolitsaKeyboard.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = GlagolitsaKeyboard.entitlements; sourceTree = "<group>"; };
 		0A3C773528E076D40031EB74 /* Keyboard.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Keyboard.entitlements; sourceTree = "<group>"; };
 		0A7A0E2628797DFE0032472B /* KeyboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardView.swift; sourceTree = "<group>"; };
-		0A7A0E2928797E6A0032472B /* MyAutocompleteToolbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAutocompleteToolbar.swift; sourceTree = "<group>"; };
 		0A7A0E2B28797F9A0032472B /* MyKeyboardAppearance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyKeyboardAppearance.swift; sourceTree = "<group>"; };
 		0A7A0E2F2879C4160032472B /* MyKeyboard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyKeyboard.swift; sourceTree = "<group>"; };
 		0A7A0E33287A11150032472B /* GlagoliticInputSetProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlagoliticInputSetProvider.swift; sourceTree = "<group>"; };
@@ -92,6 +109,25 @@
 		0AC1F044293A872300969E35 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
 		0AC1F045293A873700969E35 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/Localizable.strings; sourceTree = "<group>"; };
 		2CCB093029428ED9007768D2 /* hr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hr; path = hr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0B2000012E25700100C0D3E1 /* TabNavigationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabNavigationView.swift; sourceTree = "<group>"; };
+		0B2000022E25700100C0D3E1 /* StoreProductIdentifiers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoreProductIdentifiers.swift; sourceTree = "<group>"; };
+		0B2000032E25700100C0D3E1 /* PurchaseManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PurchaseManager.swift; sourceTree = "<group>"; };
+		0B2000042E25700100C0D3E1 /* TipPurchaseController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipPurchaseController.swift; sourceTree = "<group>"; };
+		0B2000052E25700100C0D3E1 /* ShopViewModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShopViewModifier.swift; sourceTree = "<group>"; };
+		0B2000062E25700100C0D3E1 /* TipsViewModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsViewModifier.swift; sourceTree = "<group>"; };
+		0B2000072E25700100C0D3E1 /* DoneIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoneIndicatorView.swift; sourceTree = "<group>"; };
+		0B2000082E25700100C0D3E1 /* Store.storekit */ = {isa = PBXFileReference; lastKnownFileType = text; path = Store.storekit; sourceTree = "<group>"; };
+		0B2000092E25700100C0D3E1 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		0B20000C2F17000200C0D3E1 /* RequestReviewViewModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestReviewViewModifier.swift; sourceTree = "<group>"; };
+		0B20000D2F17000300C0D3E1 /* AlphabetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlphabetView.swift; sourceTree = "<group>"; };
+		0B400008300E800000C0D3E1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		0B400009300E800000C0D3E1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		0B410003300F000000C0D3E1 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		0B410004300F000000C0D3E1 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		0B500003300F100000C0D3E1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0B500004300F100000C0D3E1 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0B500005300F100000C0D3E1 /* uk */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = uk; path = uk.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		0B500006300F100000C0D3E1 /* hr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hr; path = hr.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +135,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B400002300E800000C0D3E1 /* FirebaseCrashlytics in Frameworks */,
+				0B400001300E800000C0D3E1 /* FirebaseAnalytics in Frameworks */,
 				0A1241EF28796BDD00D71CE3 /* KeyboardKit in Frameworks */,
+				0B1000092E25700100C0D3E1 /* StoreKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -117,7 +156,9 @@
 		0A1241C328796A3A00D71CE3 = {
 			isa = PBXGroup;
 			children = (
+				0B2000082E25700100C0D3E1 /* Store.storekit */,
 				0AC1F041293A83C000969E35 /* Localizable.strings */,
+				0B500007300F100000C0D3E1 /* InfoPlist.strings */,
 				0A1241CE28796A3A00D71CE3 /* GlagolitsaKeyboard */,
 				0A1241E228796B5F00D71CE3 /* Keyboard */,
 				0A1241CD28796A3A00D71CE3 /* Products */,
@@ -137,10 +178,13 @@
 		0A1241CE28796A3A00D71CE3 /* GlagolitsaKeyboard */ = {
 			isa = PBXGroup;
 			children = (
+				0B400009300E800000C0D3E1 /* GoogleService-Info.plist */,
+				0B410003300F000000C0D3E1 /* PrivacyInfo.xcprivacy */,
 				0A3C773428E076A90031EB74 /* GlagolitsaKeyboard.entitlements */,
 				0A26C47228D1106F004EEFCF /* Info.plist */,
 				0A26C46928D10DE7004EEFCF /* Domain */,
 				0A26C45A28D10BB8004EEFCF /* Presentation */,
+				0B400008300E800000C0D3E1 /* AppDelegate.swift */,
 				0A1241CF28796A3A00D71CE3 /* GlagolitsaKeyboardApp.swift */,
 				0A1241D328796A3C00D71CE3 /* Assets.xcassets */,
 				0A1241D528796A3C00D71CE3 /* Preview Content */,
@@ -162,6 +206,7 @@
 				0A241CE0293940510021D42B /* Fonts */,
 				0A814EE328EB70E000445ECA /* Glagolitic */,
 				0A3C773528E076D40031EB74 /* Keyboard.entitlements */,
+				0B410004300F000000C0D3E1 /* PrivacyInfo.xcprivacy */,
 				0A7A0E2828797E570032472B /* My */,
 				0A1241E328796B5F00D71CE3 /* KeyboardViewController.swift */,
 				0A7A0E2628797DFE0032472B /* KeyboardView.swift */,
@@ -173,6 +218,7 @@
 		0A1241F028796BFF00D71CE3 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				0B2000092E25700100C0D3E1 /* StoreKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -190,8 +236,12 @@
 			children = (
 				0A26C46228D10D00004EEFCF /* Navigation */,
 				0A26C46128D10CAA004EEFCF /* Main */,
+				0B3000052F17000300C0D3E1 /* Alphabet */,
 				0A26C45E28D10BF2004EEFCF /* About */,
 				0A26C45B28D10BD1004EEFCF /* Settings */,
+				0B3000012E25700100C0D3E1 /* Store */,
+				0B3000032E25700100C0D3E1 /* Views */,
+				0B3000042F17000200C0D3E1 /* Modifiers */,
 			);
 			path = Presentation;
 			sourceTree = "<group>";
@@ -224,6 +274,7 @@
 			isa = PBXGroup;
 			children = (
 				0A1241D128796A3A00D71CE3 /* ContentView.swift */,
+				0B2000012E25700100C0D3E1 /* TabNavigationView.swift */,
 				0A26C46328D10D0F004EEFCF /* Sidebar.swift */,
 				0A26C46528D10D42004EEFCF /* DetailColumn.swift */,
 			);
@@ -244,7 +295,6 @@
 			isa = PBXGroup;
 			children = (
 				0A1241F328796F3200D71CE3 /* MyKeyboardActionHandler.swift */,
-				0A7A0E2928797E6A0032472B /* MyAutocompleteToolbar.swift */,
 				0A7A0E2B28797F9A0032472B /* MyKeyboardAppearance.swift */,
 				0A7A0E2F2879C4160032472B /* MyKeyboard.swift */,
 			);
@@ -260,6 +310,50 @@
 			path = Glagolitic;
 			sourceTree = "<group>";
 		};
+		0B3000012E25700100C0D3E1 /* Store */ = {
+			isa = PBXGroup;
+			children = (
+				0B2000022E25700100C0D3E1 /* StoreProductIdentifiers.swift */,
+				0B2000032E25700100C0D3E1 /* PurchaseManager.swift */,
+				0B2000042E25700100C0D3E1 /* TipPurchaseController.swift */,
+				0B3000022E25700100C0D3E1 /* Modifiers */,
+			);
+			path = Store;
+			sourceTree = "<group>";
+		};
+		0B3000022E25700100C0D3E1 /* Modifiers */ = {
+			isa = PBXGroup;
+			children = (
+				0B2000052E25700100C0D3E1 /* ShopViewModifier.swift */,
+				0B2000062E25700100C0D3E1 /* TipsViewModifier.swift */,
+			);
+			path = Modifiers;
+			sourceTree = "<group>";
+		};
+		0B3000032E25700100C0D3E1 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0B2000072E25700100C0D3E1 /* DoneIndicatorView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		0B3000042F17000200C0D3E1 /* Modifiers */ = {
+			isa = PBXGroup;
+			children = (
+				0B20000C2F17000200C0D3E1 /* RequestReviewViewModifier.swift */,
+			);
+			path = Modifiers;
+			sourceTree = "<group>";
+		};
+		0B3000052F17000300C0D3E1 /* Alphabet */ = {
+			isa = PBXGroup;
+			children = (
+				0B20000D2F17000300C0D3E1 /* AlphabetView.swift */,
+			);
+			path = Alphabet;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -271,6 +365,7 @@
 				0A1241C928796A3A00D71CE3 /* Frameworks */,
 				0A1241CA28796A3A00D71CE3 /* Resources */,
 				0A1241EC28796B5F00D71CE3 /* Embed Foundation Extensions */,
+				0B400006300E800000C0D3E1 /* Upload Crashlytics Symbols */,
 			);
 			buildRules = (
 			);
@@ -280,8 +375,10 @@
 			name = GlagolitsaKeyboard;
 			packageProductDependencies = (
 				0A1241EE28796BDD00D71CE3 /* KeyboardKit */,
+				0B400004300E800000C0D3E1 /* FirebaseAnalytics */,
+				0B400005300E800000C0D3E1 /* FirebaseCrashlytics */,
 			);
-			productName = izhitsa;
+			productName = GlagolitsaKeyboard;
 			productReference = 0A1241CC28796A3A00D71CE3 /* GlagolitsaKeyboard.app */;
 			productType = "com.apple.product-type.application";
 		};
@@ -337,6 +434,7 @@
 			mainGroup = 0A1241C328796A3A00D71CE3;
 			packageReferences = (
 				0A1241ED28796BDD00D71CE3 /* XCRemoteSwiftPackageReference "KeyboardKit" */,
+				0B400003300E800000C0D3E1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 			);
 			productRefGroup = 0A1241CD28796A3A00D71CE3 /* Products */;
 			projectDirPath = "";
@@ -353,6 +451,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B1000082E25700100C0D3E1 /* Store.storekit in Resources */,
+				0B410001300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */,
+				0B40000A300E800000C0D3E1 /* GoogleService-Info.plist in Resources */,
+				0B500001300F100000C0D3E1 /* InfoPlist.strings in Resources */,
 				0A1241D728796A3C00D71CE3 /* Preview Assets.xcassets in Resources */,
 				0AC1F03F293A83C000969E35 /* Localizable.strings in Resources */,
 				0A1241D428796A3C00D71CE3 /* Assets.xcassets in Resources */,
@@ -363,17 +465,55 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B410002300F000000C0D3E1 /* PrivacyInfo.xcprivacy in Resources */,
+				0B500002300F100000C0D3E1 /* Localizable.strings in Resources */,
 				0A241CE3293940BA0021D42B /* Shafarik-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		0B400006300E800000C0D3E1 /* Upload Crashlytics Symbols */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}",
+				"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}/Contents/Resources/DWARF/${PRODUCT_NAME}",
+				"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}/Contents/Info.plist",
+				"$(TARGET_BUILD_DIR)/$(UNLOCALIZED_RESOURCES_FOLDER_PATH)/GoogleService-Info.plist",
+				"$(TARGET_BUILD_DIR)/$(EXECUTABLE_PATH)",
+			);
+			name = "Upload Crashlytics Symbols";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "if [ \"${PLATFORM_NAME}\" = \"iphonesimulator\" ] || [ \"${CODE_SIGNING_ALLOWED}\" = \"NO\" ]; then\n    exit 0\nfi\n\n\"${BUILD_DIR%/Build/*}/SourcePackages/checkouts/firebase-ios-sdk/Crashlytics/run\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		0A1241C828796A3A00D71CE3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0B10000D2F17000300C0D3E1 /* AlphabetView.swift in Sources */,
+				0B10000C2F17000200C0D3E1 /* RequestReviewViewModifier.swift in Sources */,
+				0B1000012E25700100C0D3E1 /* TabNavigationView.swift in Sources */,
+				0B1000022E25700100C0D3E1 /* StoreProductIdentifiers.swift in Sources */,
+				0B1000032E25700100C0D3E1 /* PurchaseManager.swift in Sources */,
+				0B1000042E25700100C0D3E1 /* TipPurchaseController.swift in Sources */,
+				0B1000052E25700100C0D3E1 /* ShopViewModifier.swift in Sources */,
+				0B1000062E25700100C0D3E1 /* TipsViewModifier.swift in Sources */,
+				0B1000072E25700100C0D3E1 /* DoneIndicatorView.swift in Sources */,
 				0A26C46628D10D42004EEFCF /* DetailColumn.swift in Sources */,
 				0A26C46828D10D65004EEFCF /* MainView.swift in Sources */,
 				0A29ECA828EE0DC400DBF90F /* GlobalFunc.swift in Sources */,
@@ -383,6 +523,7 @@
 				0A26C46028D10C22004EEFCF /* AboutView.swift in Sources */,
 				0A26C45D28D10BE3004EEFCF /* SettingsView.swift in Sources */,
 				0A1241D228796A3A00D71CE3 /* ContentView.swift in Sources */,
+				0B400007300E800000C0D3E1 /* AppDelegate.swift in Sources */,
 				0A1241D028796A3A00D71CE3 /* GlagolitsaKeyboardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -392,7 +533,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0A7A0E2728797DFE0032472B /* KeyboardView.swift in Sources */,
-				0A7A0E2A28797E6A0032472B /* MyAutocompleteToolbar.swift in Sources */,
 				0A3C773628E0770E0031EB74 /* Config.swift in Sources */,
 				0A7A0E302879C4160032472B /* MyKeyboard.swift in Sources */,
 				0A7A0E36287A20100032472B /* GlagoliticCalloutActionProvider.swift in Sources */,
@@ -424,6 +564,17 @@
 				2CCB093029428ED9007768D2 /* hr */,
 			);
 			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		0B500007300F100000C0D3E1 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0B500003300F100000C0D3E1 /* en */,
+				0B500004300F100000C0D3E1 /* ru */,
+				0B500005300F100000C0D3E1 /* uk */,
+				0B500006300F100000C0D3E1 /* hr */,
+			);
+			name = InfoPlist.strings;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -551,7 +702,8 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = GlagolitsaKeyboard/GlagolitsaKeyboard.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 5;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_ASSET_PATHS = "GlagolitsaKeyboard/Preview\\ Content";
 				DEVELOPMENT_TEAM = 9FJ6F4TT5T;
 				ENABLE_PREVIEWS = YES;
@@ -569,6 +721,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.2.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = software.kanunnikoff.GlagolitsaKeyboard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -588,7 +744,8 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_ENTITLEMENTS = GlagolitsaKeyboard/GlagolitsaKeyboard.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 5;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEVELOPMENT_ASSET_PATHS = "GlagolitsaKeyboard/Preview\\ Content";
 				DEVELOPMENT_TEAM = 9FJ6F4TT5T;
 				ENABLE_PREVIEWS = YES;
@@ -606,6 +763,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.2.0;
+				OTHER_LDFLAGS = (
+					"$(inherited)",
+					"-ObjC",
+				);
 				PRODUCT_BUNDLE_IDENTIFIER = software.kanunnikoff.GlagolitsaKeyboard;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
@@ -623,7 +784,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = keyboard/keyboard.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_TEAM = 9FJ6F4TT5T;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = keyboard/Info.plist;
@@ -650,7 +811,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = keyboard/keyboard.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 4;
+				CURRENT_PROJECT_VERSION = 5;
 				DEVELOPMENT_TEAM = 9FJ6F4TT5T;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = keyboard/Info.plist;
@@ -708,8 +869,17 @@
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/KeyboardKit/KeyboardKit.git";
 			requirement = {
+				kind = versionRange;
+				maximumVersion = 11.0.0;
+				minimumVersion = 10.7.2;
+			};
+		};
+		0B400003300E800000C0D3E1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 6.3.0;
+				minimumVersion = 12.16.0;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
@@ -724,6 +894,16 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 0A1241ED28796BDD00D71CE3 /* XCRemoteSwiftPackageReference "KeyboardKit" */;
 			productName = KeyboardKit;
+		};
+		0B400004300E800000C0D3E1 /* FirebaseAnalytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 0B400003300E800000C0D3E1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAnalytics;
+		};
+		0B400005300E800000C0D3E1 /* FirebaseCrashlytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 0B400003300E800000C0D3E1 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCrashlytics;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};

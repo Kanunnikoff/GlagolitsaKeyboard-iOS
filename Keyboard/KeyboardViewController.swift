@@ -1,49 +1,60 @@
 //
 //  KeyboardViewController.swift
-//  keyboard
+//  Keyboard
 //
 //  Created by Дмитрiй Канунниковъ on 09.07.2022.
 //
 
-import UIKit
 import KeyboardKit
-import SwiftUI
 
-class KeyboardViewController: KeyboardInputViewController {
-    
-    override func viewDidLoad() {
-        keyboardContext.locale = KeyboardLocale.russian.locale
-        keyboardAppearance = MyKeyboardAppearance(context: keyboardContext)
-        
-        var glagoliticCalloutActionProvider: LocalizedCalloutActionProvider {
-            guard let provider = try? GlagoliticCalloutActionProvider() else {
-                fatalError("GlagoliticCalloutActionProvider could not be created.")
+final class KeyboardViewController: KeyboardInputViewController {
+
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(animated)
+
+        // Основное приложение не может узнать состояние системного переключателя
+        // сторонней клавиатуры. Эта метка подтверждает, что расширение хотя бы раз
+        // действительно было открыто пользователем.
+        UserDefaults(suiteName: Config.APP_GROUP_NAME)?.set(
+            true,
+            forKey: KeyboardSettingsKey.hasBeenUsed
+        )
+    }
+
+    override func viewWillSetupKeyboardKit() {
+        setupKeyboardKit(for: .glagolitic) { [weak self] result in
+            guard let self else {
+                return
             }
-            
-            return provider
+
+            // KeyboardKit во время настройки заменяет стандартные службы, поэтому
+            // пользовательский обработчик устанавливается только после завершения.
+            self.state.keyboardContext.locale = .russian
+            self.services.actionHandler = MyKeyboardActionHandler(controller: self)
+
+            if case .failure(let error) = result {
+                // Необязательная настройка библиотеки не должна оставлять пользователя
+                // без клавиатуры: раскладка и обработчик уже установлены явно.
+                NSLog("Не удалось полностью настроить KeyboardKit: \(error)")
+            }
         }
-        
-        calloutActionProvider = StandardCalloutActionProvider(
-            context: keyboardContext,
-            providers: [glagoliticCalloutActionProvider]
-        )
-        
-        inputSetProvider = StandardInputSetProvider(
-            context: keyboardContext,
-            providers: [GlagoliticInputSetProvider()]
-        )
-        
-        keyboardLayoutProvider = StandardKeyboardLayoutProvider(inputSetProvider: inputSetProvider)
-        
-        keyboardActionHandler = MyKeyboardActionHandler(inputViewController: self)
-        
-        super.viewDidLoad()
-    }
-    
-    override func viewWillSetupKeyboard() {
-        super.viewWillSetupKeyboard()
-        
-        setup(with: KeyboardView(controller: self))
     }
 
+    override func viewWillSetupKeyboardView() {
+        setupKeyboardView { controller in
+            KeyboardView(
+                services: controller.services,
+                state: controller.state
+            )
+        }
+    }
+}
+
+private extension KeyboardApp {
+
+    static let glagolitic = KeyboardApp(
+        name: "Glagolitic",
+        appGroupId: Config.APP_GROUP_NAME,
+        locales: [.russian]
+    )
 }

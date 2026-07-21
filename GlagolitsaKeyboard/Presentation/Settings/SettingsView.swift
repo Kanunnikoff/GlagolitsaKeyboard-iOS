@@ -8,13 +8,19 @@
 import SwiftUI
 
 struct SettingsView: View {
-    
-    @AppStorage("SettingsView.Keyboard.isSystemFontAndSize", store: UserDefaults(suiteName: Config.APP_GROUP_NAME))
-    private var isKeyboardSystemFontAndSize: Bool = true
-    
-    @AppStorage("SettingsView.Keyboard.isAudioFeedback", store: UserDefaults(suiteName: Config.APP_GROUP_NAME))
-    private var isKeyboardAudioFeedback: Bool = false
-    
+
+    @AppStorage(
+        KeyboardSettingsKey.isSystemFontAndSize,
+        store: UserDefaults(suiteName: Config.APP_GROUP_NAME)
+    )
+    private var isKeyboardSystemFontAndSize = true
+
+    @AppStorage(
+        KeyboardSettingsKey.isAudioFeedback,
+        store: UserDefaults(suiteName: Config.APP_GROUP_NAME)
+    )
+    private var isKeyboardAudioFeedback = false
+
     var body: some View {
         List {
             Section {
@@ -22,7 +28,7 @@ struct SettingsView: View {
                     "System font and size",
                     isOn: $isKeyboardSystemFontAndSize
                 )
-                
+
                 Toggle(
                     "Key sound",
                     isOn: $isKeyboardAudioFeedback
@@ -33,19 +39,17 @@ struct SettingsView: View {
                 Text("Ability to enable system font and sound when pressing keys.")
             }
         }
-#if os(iOS)
         .listStyle(.insetGrouped)
-#elseif !os(tvOS) && !os(watchOS)
-        .listStyle(.inset)
-#endif
         .navigationTitle("Settings")
+        .navigationBarTitleDisplayMode(.inline)
     }
 }
 
-#if DEBUG
 struct SettingsView_Previews: PreviewProvider {
+
     static var previews: some View {
-        SettingsView()
+        NavigationStack {
+            SettingsView()
+        }
     }
 }
-#endif

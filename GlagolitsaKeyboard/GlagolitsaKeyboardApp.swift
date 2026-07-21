@@ -9,9 +9,14 @@ import SwiftUI
 
 @main
 struct GlagolitsaKeyboardApp: App {
+
+    @UIApplicationDelegateAdaptor(AppDelegate.self)
+    private var appDelegate
+
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .shop()
         }
     }
 }

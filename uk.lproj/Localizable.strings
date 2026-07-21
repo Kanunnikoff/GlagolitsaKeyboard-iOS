@@ -78,3 +78,38 @@
 "Support" = "Підтримка";
 
 "If you like the result of my work, then you can, if you wish, support me in one of the above ways." = "Якщо Вам подобається результат моєї праці, то Ви можете, за бажання, підтримати мене одним із перерахованих вище способів.";
+
+
+// Оновлений інтерфейс
+
+"Alphabet" = "Абетка";
+"Glagolitic alphabet" = "Глаголична абетка";
+"Uppercase and lowercase forms of the 47 Glagolitic letters available on the keyboard." = "Великі та малі форми 47 глаголичних літер, доступних на клавіатурі.";
+"Letters that do not fit on the main layout are available by holding the corresponding keys." = "Літери, що не вмістилися в основній розкладці, доступні за довгим утриманням відповідних клавіш.";
+"Source: Unicode Glagolitic chart" = "Джерело: таблиця глаголиці Unicode";
+
+"How to enable the keyboard" = "Як увімкнути клавіатуру";
+"Open Settings → General." = "Відкрийте «Налаштування» → «Загальні».";
+"Keyboard → Keyboards → Add New Keyboard" = "Клавіатура → Клавіатури → Додати нову клавіатуру";
+"Add the “Glagolitic” keyboard." = "Додайте клавіатуру «Глаголиця».";
+"The keyboard has already been opened successfully on this device." = "Клавіатуру вже було успішно відкрито на цьому пристрої.";
+"In any regular text field, hold the keyboard switch key and select “Glagolitic”." = "У будь-якому звичайному полі введення утримуйте кнопку перемикання клавіатур і виберіть «Глаголиця».";
+"iOS uses the system keyboard in password and phone-number fields. Some apps may also block third-party keyboards." = "У полях пароля та номера телефону iOS показує системну клавіатуру. Деякі застосунки також можуть забороняти сторонні клавіатури.";
+"Some letters are available by holding corresponding letters with similar pronunciations." = "Деякі літери доступні за довгим утриманням відповідних літер зі схожою вимовою.";
+"The keyboard contains all letters of the Glagolitic alphabet." = "Клавіатура містить усі літери глаголичної абетки.";
+
+"Leave a tip" = "Залишити чайові";
+"Thank you for the tip!" = "Дякую за чайові!";
+"Thank you very much for your support!" = "Щиро дякую за підтримку!";
+"Tip" = "Чайові";
+"If you like the result of my work, you can support me with a tip." = "Якщо Вам подобається результат моєї праці, Ви можете підтримати мене чайовими.";
+"Error" = "Помилка";
+"OK" = "Гаразд";
+"I truly appreciate your wish to support the project, but the purchase could not be completed. Please try again later." = "Я дуже ціную Ваше бажання підтримати проєкт, але покупку не вдалося завершити. Будь ласка, повторіть спробу пізніше.";
+"The product is temporarily unavailable. Please try again later." = "Товар тимчасово недоступний. Повторіть спробу пізніше.";
+"The purchase could not be verified." = "Не вдалося перевірити покупку.";
+"The purchase result could not be determined." = "Не вдалося визначити результат покупки.";
+
+"Delete" = "Видалити";
+"Hide Keyboard" = "Сховати клавіатуру";
+"© 2026 Dmitry Kanunnikoff" = "© 2026 Дмитрiй Канунниковъ";

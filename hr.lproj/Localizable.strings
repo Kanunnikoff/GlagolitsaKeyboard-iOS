@@ -78,3 +78,38 @@
 "Support" = "Podrška";
 
 "If you like the result of my work, then you can, if you wish, support me in one of the above ways." = "Ako cijenite moj rad, možete ako to želite mi dati podršku na jedan od navedenih načina.";
+
+
+// Ažurirano sučelje
+
+"Alphabet" = "Abeceda";
+"Glagolitic alphabet" = "Glagoljska abeceda";
+"Uppercase and lowercase forms of the 47 Glagolitic letters available on the keyboard." = "Veliki i mali oblici 47 glagoljskih slova dostupnih na tipkovnici.";
+"Letters that do not fit on the main layout are available by holding the corresponding keys." = "Slova koja nisu na glavnom rasporedu dostupna su dugim pritiskom odgovarajućih tipki.";
+"Source: Unicode Glagolitic chart" = "Izvor: Unicode tablica glagoljice";
+
+"How to enable the keyboard" = "Kako uključiti tipkovnicu";
+"Open Settings → General." = "Otvorite Postavke → Općenito.";
+"Keyboard → Keyboards → Add New Keyboard" = "Tipkovnica → Tipkovnice → Dodaj novu tipkovnicu";
+"Add the “Glagolitic” keyboard." = "Dodajte tipkovnicu „Glagolitic”.";
+"The keyboard has already been opened successfully on this device." = "Tipkovnica je već uspješno otvorena na ovom uređaju.";
+"In any regular text field, hold the keyboard switch key and select “Glagolitic”." = "U bilo kojem običnom polju za unos držite tipku za promjenu tipkovnice i odaberite „Glagolitic”.";
+"iOS uses the system keyboard in password and phone-number fields. Some apps may also block third-party keyboards." = "U poljima za lozinku i telefonski broj iOS prikazuje sustavnu tipkovnicu. Neke aplikacije mogu blokirati i tipkovnice drugih proizvođača.";
+"Some letters are available by holding corresponding letters with similar pronunciations." = "Neka su slova dostupna dugim pritiskom odgovarajućih slova sa sličnim izgovorom.";
+"The keyboard contains all letters of the Glagolitic alphabet." = "Tipkovnica sadrži sva slova glagoljske abecede.";
+
+"Leave a tip" = "Ostavi napojnicu";
+"Thank you for the tip!" = "Hvala na napojnici!";
+"Thank you very much for your support!" = "Hvala Vam na podršci!";
+"Tip" = "Napojnica";
+"If you like the result of my work, you can support me with a tip." = "Ako Vam se sviđa rezultat mojeg rada, možete me podržati napojnicom.";
+"Error" = "Pogreška";
+"OK" = "U redu";
+"I truly appreciate your wish to support the project, but the purchase could not be completed. Please try again later." = "Cijenim Vašu želju da podržite projekt, ali kupnju nije bilo moguće dovršiti. Pokušajte ponovno poslije.";
+"The product is temporarily unavailable. Please try again later." = "Proizvod je privremeno nedostupan. Pokušajte ponovno poslije.";
+"The purchase could not be verified." = "Kupnju nije bilo moguće potvrditi.";
+"The purchase result could not be determined." = "Rezultat kupnje nije bilo moguće odrediti.";
+
+"Delete" = "Izbriši";
+"Hide Keyboard" = "Sakrij tipkovnicu";
+"© 2026 Dmitry Kanunnikoff" = "© 2026 Dmitry Kanunnikoff";

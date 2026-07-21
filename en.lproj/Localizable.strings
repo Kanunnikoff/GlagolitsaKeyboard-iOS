@@ -78,3 +78,38 @@
 "Support" = "Support";
 
 "If you like the result of my work, then you can, if you wish, support me in one of the above ways." = "If you like the result of my work, then you can, if you wish, support me in one of the above ways.";
+
+
+// Updated interface
+
+"Alphabet" = "Alphabet";
+"Glagolitic alphabet" = "Glagolitic alphabet";
+"Uppercase and lowercase forms of the 47 Glagolitic letters available on the keyboard." = "Uppercase and lowercase forms of the 47 Glagolitic letters available on the keyboard.";
+"Letters that do not fit on the main layout are available by holding the corresponding keys." = "Letters that do not fit on the main layout are available by holding the corresponding keys.";
+"Source: Unicode Glagolitic chart" = "Source: Unicode Glagolitic chart";
+
+"How to enable the keyboard" = "How to enable the keyboard";
+"Open Settings → General." = "Open Settings → General.";
+"Keyboard → Keyboards → Add New Keyboard" = "Keyboard → Keyboards → Add New Keyboard";
+"Add the “Glagolitic” keyboard." = "Add the “Glagolitic” keyboard.";
+"The keyboard has already been opened successfully on this device." = "The keyboard has already been opened successfully on this device.";
+"In any regular text field, hold the keyboard switch key and select “Glagolitic”." = "In any regular text field, hold the keyboard switch key and select “Glagolitic”.";
+"iOS uses the system keyboard in password and phone-number fields. Some apps may also block third-party keyboards." = "iOS uses the system keyboard in password and phone-number fields. Some apps may also block third-party keyboards.";
+"Some letters are available by holding corresponding letters with similar pronunciations." = "Some letters are available by holding corresponding letters with similar pronunciations.";
+"The keyboard contains all letters of the Glagolitic alphabet." = "The keyboard contains all letters of the Glagolitic alphabet.";
+
+"Leave a tip" = "Leave a tip";
+"Thank you for the tip!" = "Thank you for the tip!";
+"Thank you very much for your support!" = "Thank you very much for your support!";
+"Tip" = "Tip";
+"If you like the result of my work, you can support me with a tip." = "If you like the result of my work, you can support me with a tip.";
+"Error" = "Error";
+"OK" = "OK";
+"I truly appreciate your wish to support the project, but the purchase could not be completed. Please try again later." = "I truly appreciate your wish to support the project, but the purchase could not be completed. Please try again later.";
+"The product is temporarily unavailable. Please try again later." = "The product is temporarily unavailable. Please try again later.";
+"The purchase could not be verified." = "The purchase could not be verified.";
+"The purchase result could not be determined." = "The purchase result could not be determined.";
+
+"Delete" = "Delete";
+"Hide Keyboard" = "Hide Keyboard";
+"© 2026 Dmitry Kanunnikoff" = "© 2026 Dmitry Kanunnikoff";

@@ -1,77 +1,59 @@
 //
 //  GlagoliticInputSetProvider.swift
-//  keyboard
+//  Keyboard
 //
 //  Created by Дмитрiй Канунниковъ on 09.07.2022.
 //
 
-import Foundation
 import KeyboardKit
 
-/**
- This input set provider provides Glagolitic input sets.
- */
-public class GlagoliticInputSetProvider: InputSetProvider, LocalizedService {
-    
-    /**
-     Create an Glagolitic input set provider.
-     
-     - Parameters:
-     - numericCurrency: The currency to use for the numeric input set.
-     - symbolicCurrency: The currency to use for the symbolic input set.
-     */
-    public init(
+/// Наборы символов для глаголической раскладки.
+struct GlagoliticInputSetProvider {
+
+    let numericCurrency: String
+    let symbolicCurrency: String
+
+    init(
         numericCurrency: String = "₽",
-        symbolicCurrency: String = "€") {
-            self.numericCurrency = numericCurrency
-            self.symbolicCurrency = symbolicCurrency
-        }
-    
-    /**
-     The currency to use for the numeric input set.
-     */
-    public let numericCurrency: String
-    
-    /**
-     The currency to use for the symbolic input set.
-     */
-    public let symbolicCurrency: String
-    
-    /**
-     The locale identifier.
-     */
-    public let localeKey: String = KeyboardLocale.russian.id
-    
-    /**
-     The input set to use for alphabetic keyboards.
-     */
-    public var alphabeticInputSet: AlphabeticInputSet {
-        AlphabeticInputSet(rows: [
-            InputSetRow("ⰺⱌⱆⰽⰵⱀⰳⱎⱋⰸⱈ"),
-            InputSetRow(phone: "ⱇⱊⰲⰰⱂⱃⱁⰾⰴⰶⱏ", pad: "ⱇⱊⰲⰰⱂⱃⱁⰾⰴⰶⱖ"),
-            InputSetRow(phone: "ⱔⱍⱄⰿⰻⱅⱐⰱⱓ", pad: "ⱔⱍⱄⰿⰻⱅⱐⰱⱓⱏ")
+        symbolicCurrency: String = "€"
+    ) {
+        self.numericCurrency = numericCurrency
+        self.symbolicCurrency = symbolicCurrency
+    }
+
+    var alphabeticInputSet: KeyboardLayout.InputSet {
+        KeyboardLayout.InputSet(rows: [
+            .init(chars: "ⰺⱌⱆⰽⰵⱀⰳⱎⱋⰸⱈ"),
+            .init(
+                chars: "ⱇⱊⰲⰰⱂⱃⱁⰾⰴⰶⱏ",
+                deviceVariations: [.pad: "ⱇⱊⰲⰰⱂⱃⱁⰾⰴⰶⱖ"]
+            ),
+            .init(
+                chars: "ⱔⱍⱄⰿⰻⱅⱐⰱⱓ",
+                deviceVariations: [.pad: "ⱔⱍⱄⰿⰻⱅⱐⰱⱓⱏ"]
+            )
         ])
     }
-    
-    /**
-     The input set to use for numeric keyboards.
-     */
-    public var numericInputSet: NumericInputSet {
-        NumericInputSet(rows: [
-            InputSetRow("1234567890"),
-            InputSetRow(phone: "-/:;()\(numericCurrency)&@”", pad: "@#\(numericCurrency)&*()’”"),
-            InputSetRow(phone: ".,?!’", pad: "%-+=/;:!?")
+
+    var numericInputSet: KeyboardLayout.InputSet {
+        KeyboardLayout.InputSet(rows: [
+            .init(chars: "1234567890", deviceVariations: [.pad: "1234567890–"]),
+            .init(
+                chars: "-/:;()\(numericCurrency)&@”",
+                deviceVariations: [.pad: "@#№\(numericCurrency)•&*()’”"]
+            ),
+            .init(chars: ".,?!’", deviceVariations: [.pad: "%-−+=/;:!?"])
         ])
     }
-    
-    /**
-     The input set to use for symbolic keyboards.
-     */
-    public var symbolicInputSet: SymbolicInputSet {
-        SymbolicInputSet(rows: [
-            InputSetRow(phone: "[]{}#%^*+=", pad: "1234567890"),
-            InputSetRow(phone: "_\\|~<>$\(symbolicCurrency)£•", pad: "€\(symbolicCurrency)¥_^[]{}"),
-            InputSetRow(phone: ".,?!’", pad: "§|~…\\<>!?")
+
+    var symbolicInputSet: KeyboardLayout.InputSet {
+        KeyboardLayout.InputSet(rows: [
+            .init(chars: "[]{}#%^*+=", deviceVariations: [.pad: "1234567890–"]),
+            .init(
+                chars: "_\\|~<>$\(symbolicCurrency)£•",
+                deviceVariations: [.pad: "$\(symbolicCurrency)£±•`^[]{}"]
+            ),
+            .init(chars: ".,?!’", deviceVariations: [.pad: "§|~…≠\\<>!?"])
         ])
     }
 }
