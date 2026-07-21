@@ -11,6 +11,24 @@
             "value" : "Glagolitic"
           }
         },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glagolitic"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Глаголица"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Глаголиця"
+          }
+        },
         "cs" : {
           "stringUnit" : {
             "state" : "translated",
@@ -56,6 +74,24 @@
         "en" : {
           "stringUnit" : {
             "state" : "new",
+            "value" : "GlagolitsaKeyboard"
+          }
+        },
+        "hr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GlagolitsaKeyboard"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GlagolitsaKeyboard"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
             "value" : "GlagolitsaKeyboard"
           }
         },
